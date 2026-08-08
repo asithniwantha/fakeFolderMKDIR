@@ -717,6 +717,41 @@ def fetch_steam_app_id(game_name):
     except Exception:
         return None
 
+def fetch_wikipedia_cover_image(game_name, game_folder):
+    """Download cover image from Wikipedia as a fallback."""
+    try:
+        search_url = "https://en.wikipedia.org/wiki/Special:Search"
+        response = requests.get(search_url, params={'search': game_name}, headers=HEADERS, timeout=10)
+
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.content, 'html.parser')
+            box = soup.find('table', {'class': 'infobox'})
+            if box:
+                img = box.find('img')
+                if img and 'src' in img.attrs:
+                    img_url = img['src']
+                    if img_url.startswith('//'):
+                        img_url = 'https:' + img_url
+                    elif img_url.startswith('/'):
+                        img_url = 'https://en.wikipedia.org' + img_url
+
+                    # Convert thumbnail URL to slightly larger version if possible
+                    img_url = img_url.replace('/220px-', '/500px-').replace('/250px-', '/500px-')
+
+                    img_response = requests.get(img_url, headers=HEADERS, timeout=10)
+                    if img_response.status_code == 200:
+                        cover_path = os.path.join(game_folder, "cover.jpg")
+                        with open(cover_path, 'wb') as f:
+                            f.write(img_response.content)
+                        return True
+        return False
+    except requests.RequestException as e:
+        print(f"  Wikipedia Request Error: {e}")
+        return False
+    except Exception as e:
+        print(f"  Wikipedia Parsing Error: {e}")
+        return False
+
 def fetch_steam_cover_image(app_id, game_name, game_folder):
     """Download cover image from Steam."""
     try:
@@ -782,6 +817,13 @@ def download_covers_step(base_path=BASE_PATH):
                     time.sleep(0.2)
                     continue
 
+            # Fallback to Wikipedia
+            if fetch_wikipedia_cover_image(game_name, game_path):
+                print("✓ Wikipedia")
+                downloaded += 1
+                time.sleep(0.2)
+                continue
+
             print("✗ Failed")
             failed += 1
 
@@ -824,73 +866,113 @@ def cleanup_step(base_path=BASE_PATH):
 
     print(f"\n✓ Removed: {removed} old info files")
 
+def select_directory(start_path="."):
+    """Text-based menu to navigate and select a directory."""
+    current_path = os.path.abspath(start_path)
+
+    while True:
+        print("\n" + "=" * 70)
+        print(f"CURRENT DIRECTORY: {current_path}")
+        print("=" * 70)
+
+        try:
+            # Get list of directories
+            items = os.listdir(current_path)
+            directories = [d for d in items if os.path.isdir(os.path.join(current_path, d))]
+            directories.sort()
+
+            # Print options
+            print("0: [Select this directory]")
+            print("1: [Go up to parent directory (..)]")
+
+            for i, d in enumerate(directories, 2):
+                print(f"{i}: {d}")
+
+            print("\nEnter number to navigate, or 'c' to cancel and use default:")
+            choice = input("> ").strip().lower()
+
+            if choice == 'c':
+                return None
+
+            if choice == '0':
+                return current_path
+
+            if choice == '1':
+                current_path = os.path.abspath(os.path.join(current_path, os.pardir))
+                continue
+
+            # Try to navigate to chosen directory
+            try:
+                idx = int(choice)
+                if 2 <= idx < len(directories) + 2:
+                    selected_dir = directories[idx - 2]
+                    current_path = os.path.join(current_path, selected_dir)
+                else:
+                    print("Invalid selection. Try again.")
+            except ValueError:
+                print("Invalid input. Please enter a number.")
+
+        except PermissionError:
+            print(f"Permission denied to access {current_path}.")
+            current_path = os.path.abspath(os.path.join(current_path, os.pardir))
+            time.sleep(1)
+
 def main():
-    """Main function - Complete workflow."""
+    """Main function - Menu workflow."""
     print("=" * 70)
-    print("PC GAMES DATABASE BUILDER - COMPLETE WORKFLOW")
+    print("PC GAMES DATABASE BUILDER")
     print("=" * 70)
     print()
 
-    # Get custom path
-    custom_path = input(f"Enter path for game folders (default: {BASE_PATH}): ").strip()
-    if custom_path:
-        base_path = custom_path
+    print("Please select the base directory for game folders:")
+    selected_path = select_directory()
+
+    if selected_path:
+        base_path = selected_path
     else:
         base_path = BASE_PATH
 
-    print()
+    print(f"\nUsing base path: {base_path}")
 
-    # Get number of games
-    user_limit = input("How many games to create? (default: 500, max: 500): ").strip()
-    try:
-        limit = int(user_limit) if user_limit else 500
-        limit = min(limit, 500)
-    except ValueError:
-        limit = 500
+    while True:
+        print("\n" + "=" * 70)
+        print("MAIN MENU")
+        print("=" * 70)
+        print("1. Create game folders")
+        print("2. Download system requirements")
+        print("3. Download cover images")
+        print("4. Clean up old placeholder files")
+        print("5. Exit")
+        print()
 
-    print()
+        choice = input("Select an option (1-5): ").strip()
 
-    # Confirm before proceeding
-    print("This will:")
-    print("  1. Create game folders")
-    print("  2. Fetch real system requirements from Steam")
-    print("  3. Download actual cover images from Steam")
-    print("  4. Clean up old placeholder files")
-    print()
+        if choice == '1':
+            user_limit = input("\nHow many games to create? (default: 500, max: 500): ").strip()
+            try:
+                limit = int(user_limit) if user_limit else 500
+                limit = min(limit, 500)
+            except ValueError:
+                limit = 500
 
-    confirm = input("Continue? (yes/no): ").strip().lower()
-    if confirm not in ['yes', 'y']:
-        print("Cancelled.")
-        return
+            games = get_curated_games_list(limit)
+            create_game_folders_step(games, base_path)
 
-    # Step 1: Create folders
-    print()
-    games = get_curated_games_list(limit)
-    create_game_folders_step(games, base_path)
+        elif choice == '2':
+            fetch_requirements_step(base_path)
 
-    # Step 2: Fetch requirements
-    fetch_requirements_step(base_path)
+        elif choice == '3':
+            download_covers_step(base_path)
 
-    # Step 3: Download covers
-    download_covers_step(base_path)
+        elif choice == '4':
+            cleanup_step(base_path)
 
-    # Step 4: Cleanup
-    cleanup_step(base_path)
+        elif choice == '5':
+            print("\nExiting program. Goodbye!")
+            break
 
-    # Final summary
-    print("\n" + "=" * 70)
-    print("✓ COMPLETE!")
-    print("=" * 70)
-    print()
-    print("All done! Your game database is ready:")
-    print()
-    print(f"Location: {os.path.abspath(base_path)}")
-    print()
-    print("Each folder contains:")
-    print("  ✓ cover.jpg - Actual cover image from Steam")
-    print("  ✓ system_requirements.txt - Real specs from Steam")
-    print()
-    print("=" * 70)
+        else:
+            print("\nInvalid choice. Please select 1-5.")
 
 
 if __name__ == "__main__":
