@@ -25,7 +25,6 @@
     <Compile Include="download_cover_images.py" />
     <Compile Include="fakeFolderMKDIR.py" />
     <Compile Include="fetch_real_requirements.py" />
-    <Compile Include="PC_Games_Master.py" />
     <Compile Include="resume_fetch_requirements.py" />
   </ItemGroup>
   <ItemGroup>
