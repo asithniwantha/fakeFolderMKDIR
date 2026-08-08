@@ -717,6 +717,60 @@ def fetch_steam_app_id(game_name):
     except Exception:
         return None
 
+def fetch_gog_cover_image(game_name, game_folder):
+    """Download cover image from GOG as a fallback."""
+    try:
+        formatted_name = re.sub(r'[^a-zA-Z0-9]+', '_', game_name.lower()).strip('_')
+        url = f"https://www.gog.com/en/game/{formatted_name}"
+        response = requests.get(url, headers=HEADERS, timeout=10)
+
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.content, 'html.parser')
+            meta_img = soup.find('meta', {'property': 'og:image'})
+            if meta_img and meta_img.get('content'):
+                img_url = meta_img['content']
+                img_response = requests.get(img_url, headers=HEADERS, timeout=10)
+                if img_response.status_code == 200:
+                    cover_path = os.path.join(game_folder, "cover.jpg")
+                    with open(cover_path, 'wb') as f:
+                        f.write(img_response.content)
+                    return True
+        return False
+    except requests.RequestException as e:
+        print(f"  GOG Request Error: {e}")
+        return False
+    except Exception as e:
+        print(f"  GOG Parsing Error: {e}")
+        return False
+
+
+def fetch_gsr_cover_image(game_name, game_folder):
+    """Download cover image from GameSystemRequirements as a fallback."""
+    try:
+        formatted_name = re.sub(r'[^a-zA-Z0-9]+', '-', game_name.lower()).strip('-')
+        url = f"https://gamesystemrequirements.com/game/{formatted_name}"
+        response = requests.get(url, headers=HEADERS, timeout=10)
+
+        if response.status_code == 200:
+            soup = BeautifulSoup(response.content, 'html.parser')
+            meta_img = soup.find('meta', {'property': 'og:image'})
+            if meta_img and meta_img.get('content'):
+                img_url = meta_img['content']
+                img_response = requests.get(img_url, headers=HEADERS, timeout=10)
+                if img_response.status_code == 200:
+                    cover_path = os.path.join(game_folder, "cover.jpg")
+                    with open(cover_path, 'wb') as f:
+                        f.write(img_response.content)
+                    return True
+        return False
+    except requests.RequestException as e:
+        print(f"  GSR Request Error: {e}")
+        return False
+    except Exception as e:
+        print(f"  GSR Parsing Error: {e}")
+        return False
+
+
 def fetch_wikipedia_cover_image(game_name, game_folder):
     """Download cover image from Wikipedia as a fallback."""
     try:
@@ -816,6 +870,20 @@ def download_covers_step(base_path=BASE_PATH):
                     downloaded += 1
                     time.sleep(0.2)
                     continue
+
+            # Fallback to GOG
+            if fetch_gog_cover_image(game_name, game_path):
+                print("✓ GOG")
+                downloaded += 1
+                time.sleep(0.2)
+                continue
+
+            # Fallback to GameSystemRequirements (GSR)
+            if fetch_gsr_cover_image(game_name, game_path):
+                print("✓ GameSystemRequirements")
+                downloaded += 1
+                time.sleep(0.2)
+                continue
 
             # Fallback to Wikipedia
             if fetch_wikipedia_cover_image(game_name, game_path):
