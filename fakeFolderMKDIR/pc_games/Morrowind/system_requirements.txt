@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Morrowind
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: OS *: Windows ME/98/XP/2000					Processor: 500 MHz Intel Pentium III, Celeron, or AMD Athlon					Memory: 256 MB					Graphics: 32MB Direct3D Compatible video card with 32-bit color support and DirectX 8.1 					DirectX®: 8.1					Hard Drive: 1GB free hard disk space					Sound: DirectX 8.1 compatible sound card
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:18
+Source: Fetched from Steam Web API

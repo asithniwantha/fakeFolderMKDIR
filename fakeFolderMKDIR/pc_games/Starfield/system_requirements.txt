@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Starfield
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows 10 version 21H1 (10.0.19043)Processor: AMD Ryzen 5 2600X, Intel Core i7-6800KMemory: 16 GB RAMGraphics: AMD Radeon RX 5700, NVIDIA GeForce 1070 TiDirectX: Version 12Storage: 125 GB available spaceAdditional Notes: SSD Required
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 10/11 with updatesProcessor: AMD Ryzen 5 3600X, Intel i5-10600KMemory: 16 GB RAMGraphics: AMD Radeon RX 6800 XT, NVIDIA GeForce RTX 2080DirectX: Version 12Network: Broadband Internet connectionStorage: 125 GB available spaceAdditional Notes: SSD Required
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:38
+Source: Fetched from Steam Web API

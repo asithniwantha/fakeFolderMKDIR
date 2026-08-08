@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Hollow Knight Silksong
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 version 21H1 (build 19043) or newerProcessor: Intel Core i3-3240, AMD FX-4300Memory: 4 GB RAMGraphics: GeForce GTX 560 Ti (1GB), Radeon HD 7750 (1GB)DirectX: Version 10Storage: 8 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 version 21H1 (build 19043) or newerProcessor: Intel Core i5-3470Memory: 8 GB RAMGraphics: GeForce GTX 1050 (2GB), Radeon R9 380 (2GB)DirectX: Version 10Storage: 8 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:55
+Source: Fetched from Steam Web API

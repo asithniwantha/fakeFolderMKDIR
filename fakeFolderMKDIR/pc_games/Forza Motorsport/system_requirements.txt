@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Forza Motorsport
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 version 19041 or higherProcessor: Intel i5-8400 or AMD Ryzen 5 1600Memory: 8 GB RAMGraphics: NVidia GTX 1060 or AMD RX 5500 XT or Intel A380Network: Broadband Internet connectionStorage: 130 GB available spaceAdditional Notes: SSD Required
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 version 19041 or higherProcessor: Intel i5-11600k or AMD Ryzen 5 5600XMemory: 16 GB RAMGraphics: NVidia RTX 2080 TI or AMD RX 6800 XT or Intel A770Network: Broadband Internet connectionStorage: 130 GB available spaceAdditional Notes: SSD Required
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:04
+Source: Fetched from Steam Web API

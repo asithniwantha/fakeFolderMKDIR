@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Skyrim
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7/8.1/10 (64-bit Version)Processor: Intel i5-750/AMD Phenom II X4-945Memory: 8 GB RAMGraphics: NVIDIA GTX 470 1GB /AMD HD 7870 2GBStorage: 12 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 7/8.1/10 (64-bit Version)Processor: Intel i5-2400/AMD FX-8320Memory: 8 GB RAMGraphics: NVIDIA GTX 780 3GB /AMD R9 290 4GBStorage: 12 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:05
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Saints Row IV
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows Vista (x86 or x64)Processor: Intel Core 2 Quad Q6600 | AMD Athlon II x3Memory: 4 GB RAMGraphics: NVIDIA GTX 260 | AMD Radeon HD 5800 seriesDirectX: Version 10Storage: 10 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 7 (x86 or x64)Processor: Intel i3 2100T | AMD Phenom II x4 or higherMemory: 4 GB RAMGraphics: NVIDIA GTX 560 | AMD Radeon HD 6800 series or higherDirectX: Version 11Storage: 10 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:48
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Garry's Mod
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows® 10Processor: 2 GHz Processor or betterMemory: 4 GB RAMGraphics: 1GB dedicated VRAM or betterDirectX: Version 9.0cNetwork: Broadband Internet connectionStorage: 10 GB available spaceSound Card: DirectX® 9 compatibleAdditional Notes: Mouse, Keyboard, Monitor
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows® 10/11Processor: 2.5 GHz Processor or betterMemory: 8 GB RAMGraphics: 4GB dedicated VRAM or betterDirectX: Version 9.0cNetwork: Broadband Internet connectionStorage: 25 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:11
+Source: Fetched from Steam Web API

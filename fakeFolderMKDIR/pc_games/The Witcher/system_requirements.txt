@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: The Witcher
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: 64-bit Windows 7, 64-bit Windows 8 (8.1)Processor: Intel CPU Core i5-2500K 3.3GHz / AMD A10-5800K APU (3.8GHz)Memory: 6 GB RAMGraphics: Nvidia GPU GeForce GTX 660 / AMD GPU Radeon HD 7870DirectX: Version 11Storage: 50 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: 64-bit Windows 10/11Processor: Intel Core i5-7400 / Ryzen 5 1600Memory: 8 GB RAMGraphics: Nvidia GTX 1070 / Radeon RX 480DirectX: Version 12Storage: 50 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:31
+Source: Fetched from Steam Web API

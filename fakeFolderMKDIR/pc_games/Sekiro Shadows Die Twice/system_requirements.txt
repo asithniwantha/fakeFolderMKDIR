@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Sekiro Shadows Die Twice
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7 64-bit | Windows 8 64-bit | Windows 10 64-bitProcessor: Intel Core i3-2100 | AMD FX-6300Memory: 4 GB RAMGraphics: NVIDIA GeForce GTX 760 | AMD Radeon HD 7950DirectX: Version 11Network: Broadband Internet connectionStorage: 25 GB available spaceSound Card: DirectX 11 Compatible
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 7 64-bit | Windows 8 64-bit | Windows 10 64-bitProcessor: Intel Core i5-2500K | AMD Ryzen 5 1400Memory: 8 GB RAMGraphics: NVIDIA GeForce GTX 970 | AMD Radeon RX 570DirectX: Version 11Network: Broadband Internet connectionStorage: 25 GB available spaceSound Card: DirectX 11 Compatible
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:58
+Source: Fetched from Steam Web API

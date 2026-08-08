@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Planescape Torment
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows XP, Vista, 7, 8.1, 10Processor: Dual Core ProcessorMemory: 1 GB RAMGraphics: OpenGL 2.0 compatibleStorage: 2 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:07
+Source: Fetched from Steam Web API

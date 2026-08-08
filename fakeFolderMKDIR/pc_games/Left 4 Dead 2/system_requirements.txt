@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Left 4 Dead 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows® 7 32/64-bit / Vista 32/64 / XPProcessor: Pentium 4 3.0GHzMemory: 2 GB RAMGraphics: Video card with 128 MB, Shader model 2.0. ATI X800, NVidia 6600 or betterDirectX: Version 9.0cStorage: 13 GB available spaceSound Card: DirectX 9.0c compatible sound card
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows® 7 32/64-bit / Vista 32/64 / XPProcessor: Intel core 2 duo 2.4GHzMemory: 2 GB RAMGraphics: Video Card Shader model 3.0. NVidia 7600, ATI X1600 or betterDirectX: Version 9.0cStorage: 13 GB available spaceSound Card: DirectX 9.0c compatible sound card
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:32
+Source: Fetched from Steam Web API

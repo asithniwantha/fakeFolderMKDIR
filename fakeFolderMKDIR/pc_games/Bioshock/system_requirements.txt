@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Bioshock
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7 Service Pack 1 64-bit. Platform Update for Windows 7 SP1 and Windows Server 2008 R2 SP1Processor: Intel E6750 Core 2 Duo 2.66 GHz / AMD Athlon X2 2.7 GHZMemory: 4 GB RAMGraphics: 2GB AMD Radeon HD 7770 / 2GB NVIDIA GeForce GTX 670DirectX: Version 11Storage: 25 GB available spaceSound Card: DirectX Compatible Sound DeviceAdditional Notes: Other Requirements: Software installations required including DirectX and Microsoft Visual C++ 2010 &amp; 2012 Redistributable Package. Some system components such as mobile chipsets, integrated, and AGP graphics cards may be incompatible. Unlisted specifications may not be supported by publisher.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS *: Windows 7 Service Pack 1 64-bit. Platform Update for Windows 7 SP1 and Windows Server 2008 R2 SP1Processor: 3GHz Quad-CoreMemory: 8 GB RAMGraphics: 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or betterDirectX: Version 11Storage: 25 GB available spaceSound Card: DirectX Compatible Sound Device
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:16:15
+Source: Fetched from Steam Web API

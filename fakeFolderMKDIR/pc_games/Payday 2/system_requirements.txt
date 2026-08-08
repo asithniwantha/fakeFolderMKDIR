@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Payday 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7Processor: 2 GHz Intel Dual Core ProcessorMemory: 4 GB RAMGraphics: Nvidia &amp; AMD (512MB VRAM)DirectX: Version 9.0cStorage: 83 GB available spaceVR Support: SteamVR. Standing or Room Scale. Requires installing the free VR DLC.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 10Processor: 2.3 GHz Intel Quad Core ProcessorMemory: 8 GB RAMGraphics: Nvidia &amp; AMD (1GB VRAM)DirectX: Version 9.0cStorage: 83 GB available spaceVR Support: SteamVR. Standing or Room Scale. Requires installing the free VR DLC.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:59
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Half-Life Alyx
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10Processor: Core i5-7500 / Ryzen 5 1600Memory: 12 GB RAMGraphics: GTX 1060 / RX 580 - 6GB VRAMVR Support: SteamVR
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating system
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:35
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Stephen's Sausage Roll
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows XP+Processor: 1.8 GHzMemory: 2 GB RAMGraphics: DX9 / SM2-compatible card ( generally everything made since 2004 should work )DirectX: Version 9.0Storage: 500 MB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:42
+Source: Fetched from Steam Web API

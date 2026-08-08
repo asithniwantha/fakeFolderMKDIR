@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Cyberpunk
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: 64-bit Windows 10Processor: Core i7-6700 or Ryzen 5 1600Memory: 12 GB RAMGraphics: GeForce GTX 1060 6GB or Radeon RX 580 8GB or Arc A380DirectX: Version 12Storage: 70 GB available spaceAdditional Notes: SSD required. Attention: In this game you will encounter a variety of visual effects that may provide seizures or loss of consciousness in a minority of people. If you or someone you know experiences any of the above symptoms while playing, stop and seek medical attention immediately.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: 64-bit Windows 10Processor: Core i7-12700 or Ryzen 7 7800X3DMemory: 16 GB RAMGraphics: GeForce RTX 2060 SUPER or Radeon RX 5700 XT or Arc A770DirectX: Version 12Storage: 70 GB available spaceAdditional Notes: SSD required.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:17
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Farcry 6
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 (20H1 version or newer, 64-bit versions)Processor: AMD Ryzen 3 1200 @ 3. GHz or Intel Core i5-4460 @ 3.1 GHz (AVX, AVX2 and SSE 4.2 support required)Memory: 8 GB RAMGraphics: AMD RX 460 (4 GB) or NVIDIA GeForce GTX 960 (4 GB)DirectX: Version 12Storage: 170 GB available spaceAdditional Notes: Please note that the minimum requirement for running the HD Texture Pack for Far Cry 6 is 12GB of VRAM. For 4K configurations, you will need 16GB of VRAM.   If you download and run the HD Texture Pack with lower VRAM capabilities, you will encounter performance issues while playing.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 (20H1 version or newer, 64-bit versions)Processor: AMD Ryzen 5 3600X @ 3.8 GHz or Intel Core i7-7700 @ 3.6 GHz (AVX, AVX2 and SSE 4.2 support required)Memory: 16 GB RAMGraphics: AMD RX Vega 64 (8 GB) or NVIDIA GeForce GTX 1080 (8 GB)DirectX: Version 12Storage: 170 GB available spaceAdditional Notes: Please note that the minimum requirement for running the HD Texture Pack for Far Cry 6 is 12GB of VRAM. For 4K configurations, you will need 16GB of VRAM.   If you download and run the HD Texture Pack with lower VRAM capabilities, you will encounter performance issues while playing.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:41
+Source: Fetched from Steam Web API

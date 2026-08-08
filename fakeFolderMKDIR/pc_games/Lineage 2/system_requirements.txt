@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Lineage 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows® 2000/XP/Vista™Processor: 1,8 GHz Intel® Pentium® or equivalentMemory: 1 GB RAMGraphics: 256 MB DirectX® 9.0c compatible Pixel/Vertex Shader 3.0 supportDirectX: Version 9.0cStorage: 2 GB available spaceSound Card: DirectX® 9.0c compatible sound card
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows® 7/8™Processor: 2,4 GHz Intel® Pentium® or equivalentMemory: 2 GB RAMGraphics: 512 MB DirectX® 9.0c compatible Pixel/Vertex Shader 3.0 supportDirectX: Version 9.0cStorage: 2 GB available spaceSound Card: DirectX® 9.0c compatible sound card
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:37
+Source: Fetched from Steam Web API

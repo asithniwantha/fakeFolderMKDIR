@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: My Hero Academia
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 11Processor: Intel i5-10600K (4.1 GHz) / AMD Ryzen 5 3600 XT (3.8 GHz)Memory: 8 GB RAMGraphics: NVIDIA GTX 1660 Ti (6 GB) / AMD Radeon RX 5600 XT (6 GB)DirectX: Version 12Storage: 20 GB available spaceAdditional Notes: Estimated performance: 1080p/60fps with graphics settings at &quot;Low&quot;. Framerate might drop in graphics-intensive scenes.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 11Processor: Intel i7-9700 (3.0 GHz) / AMD Ryzen 7-3700X (3.6 GHz)Memory: 16 GB RAMGraphics: NVIDIA RTX 2070 (8 GB) / AMD RX 5700 XT (8 GB)DirectX: Version 12Storage: 20 GB available spaceAdditional Notes: Estimated performance: 1080p/60fps with graphics settings at &quot;High&quot;.  Framerate might drop in graphics-intensive scenes.  Windows 10 (Version 1809 or later) and a 4GB VRAM GPU (graphics board or video card) are required for DirectX 12 API.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:28
+Source: Fetched from Steam Web API

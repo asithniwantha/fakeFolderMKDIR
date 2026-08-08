@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Elder Scrolls Online
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: Intel® Core™ i5 2300 or AMD FX4350Memory: 4 GB RAMGraphics: Direct X 11.0 compliant video card with 1GB RAM (NVIDIA® GeForce® 560 or AMD Radeon™ 6870)DirectX: Version 11Network: Broadband Internet connectionStorage: 150 GB available spaceSound Card: DirectX compatible sound card
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: Intel® Core™ i5 2300 or AMD FX4350Memory: 8 GB RAMGraphics: Direct X 11.0 compliant video card with 4GB of RAM (NVIDIA® GeForce® GTX 970 or AMD Radeon™ RX 570) or higherDirectX: Version 11Network: Broadband Internet connectionStorage: 150 GB available spaceSound Card: DirectX compatible sound card
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:13
+Source: Fetched from Steam Web API

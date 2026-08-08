@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Maniac Mansion
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows XP/Vista/7/8/10Processor: 1 GHzMemory: 256 MB RAMGraphics: 3D graphics card compatible with DirectX 7DirectX: Version 7.0Storage: 40 MB available spaceSound Card: 16-bit sound cardAdditional Notes: Mouse, Keyboard
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Processor: 1.4 GHzMemory: 512 MB RAMGraphics: 3D graphics card compatible with DirectX 9
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:49
+Source: Fetched from Steam Web API

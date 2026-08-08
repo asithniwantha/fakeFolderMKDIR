@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Saints Row 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:                    					Supported OS:Windows XP or Vista.                                           					Processor: 2.0 GHz Intel Dual-Core Pentium IV or equivalent or AMD Dual-Core Athlon XP or equivalent                    					Memory: 1 GB system RAM                     					Graphics: 128MB 3D graphics card with Shader Model 3.0 support (i.e. 7600 NVidia card or better, ATI X1300 card or better)                    					DirectX Version: DirectX 9.0c                      					Sound: DirectX 9.0c compatible 16-bit sound card                    					Hard Drive: 15 GB of Hard Drive Space                    					Display: DirectX compatible display capable of 640x480 in 16-bit color
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:                    					Supported OS:Windows XP or Vista.                                           					Processor: 3.2 GHz Intel Dual-Core Pentium IV or equivalent or AMD Dual-Core Athlon XP or equivalent                    					Memory: 2 GB system RAM                     					Graphics: 256MB 3D graphics card with Shader Model 3.0 support (i.e. 8800 NVidia card or better, ATI HD3850 card or better)                    					DirectX Version: DirectX 9.0c                      					Sound: DirectX 9.0c compatible 16-bit sound card                    					Hard Drive: 15 GB of Hard Drive Space                    					Display: DirectX compatible display capable of 640x480 in 16-bit color
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:47
+Source: Fetched from Steam Web API

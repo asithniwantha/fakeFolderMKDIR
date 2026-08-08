@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Crysis 3
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows 10 64 bitProcessor: Intel(R) Core(TM) i5-3470Memory: 8 GB RAMGraphics: NVIDIA GeForce GTX 1060DirectX: Version 11Storage: 18 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 10 64-Bit latest updateProcessor: Intel(R) Core(TM) i5-8600Memory: 16 GB RAMGraphics: NVIDIA GeForce GTX 1660 TIDirectX: Version 11Storage: 18 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:15
+Source: Fetched from Steam Web API

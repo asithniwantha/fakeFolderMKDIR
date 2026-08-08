@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Europa Universalis IV
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows® 10 Home 64 bit	Processor: Intel® Core™ i3-2105 / AMD® FX 4300	Memory: 4 GB RAM	Graphics: Nvidia® GeForce™ GTX 460 / AMD® Radeon™ HD 5850	Video Memory: 1 GB RAM	DirectX®:9.0c	Hard Drive:6 GB HD space	Sound:Direct X- compatible soundcard 	Other Requirements:Broadband Internet connection	Additional:Controller support: 3-button mouse, keyboard and speakers. Internet Connection or LAN for multiplayer
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows® 10 Home 64 bit	Processor: Intel® Core™ i3 3240 / AMD® FX 8120	Memory: 8 GB RAM	Graphics: Nvidia® GeForce™ GTX 560 Ti	Video Memory: 1 GB RAM	DirectX®:9.0c	Hard Drive:6 GB HD space	Sound:Direct X-compatible soundcard	Other Requirements:Broadband Internet connection	Additional:Controller support: 3-button mouse, keyboard and speakers. Internet Connection or LAN for multiplayer
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:21
+Source: Fetched from Steam Web API

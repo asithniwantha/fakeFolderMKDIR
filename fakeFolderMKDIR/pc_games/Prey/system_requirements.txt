@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Prey
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7/8/10 (64-bit versions)Processor: Intel i5-2400, AMD FX-8320Memory: 8 GB RAMGraphics: GTX 660 2GB, AMD Radeon 7850 2GBStorage: 20 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS *: Windows 7/8/10 (64-bit versions)Processor: Intel i7-2600K, AMD FX-8350Memory: 16 GB RAMGraphics: GTX 970 4GB, AMD R9 290 4GBStorage: 20 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:12
+Source: Fetched from Steam Web API

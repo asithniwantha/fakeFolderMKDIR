@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Street Fighter 6
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 (64 bit required)Processor: Intel Core i5-7500 / AMD Ryzen 3 1200Memory: 8 GB RAMGraphics: GTX1060 (VRAM 6GB) / Radeon RX 580 (VRAM 4GB)DirectX: Version 12Storage: 60 GB available spaceAdditional Notes: - The framerate may drop during graphic-intensive scenes. - Additional storage is required for each subsequent update.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 (64 bit)/Windows 11 (64 bit)Processor: Intel Core i7 8700 / AMD Ryzen 5 3600Memory: 16 GB RAMGraphics: RTX2070 / Radeon RX 5700XTDirectX: Version 12Storage: 60 GB available spaceAdditional Notes: - The framerate may drop during graphic-intensive scenes. - Additional storage is required for each subsequent update.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:44
+Source: Fetched from Steam Web API

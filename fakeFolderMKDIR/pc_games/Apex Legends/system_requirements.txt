@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Apex Legends
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: 64-bit Windows 10Processor: AMD FX 4350 or Equivalent, Intel Core i3 6300 or EquivalentMemory: 6 GB RAMGraphics: AMD Radeon™ HD 7790 (2 GB), NVIDIA GeForce® GTX 950DirectX: Version 12Network: Broadband Internet connectionStorage: 75 GB available spaceAdditional Notes: ~3.8GB for 1 localized language
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: 64-bit Windows 10Processor: Ryzen 5 CPU or EquivalentMemory: 8 GB RAMGraphics: AMD Radeon™ R9 290, NVIDIA GeForce® GTX 970DirectX: Version 12Network: Broadband Internet connectionStorage: 75 GB available spaceAdditional Notes: ~3.8GB for 1 localized language
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:15:35
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Rise of the Tomb Raider
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7 64bitProcessor: Intel Core i3-2100 or AMD equivalentMemory: 6 GB RAMGraphics: NVIDIA GTX 650 2GB or AMD HD7770 2GBDirectX: Version 11Storage: 25 GB available spaceVR Support: SteamVR
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 10 64 bitProcessor: Intel Core i7-3770KMemory: 8 GB RAMGraphics: NVIDIA GTX 980Ti 2560x1440  or NVIDIA GTX 970 1920x1080DirectX: Version 11Storage: 25 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:37
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Divinity Original Sin 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7 SP1 64-bit or Windows 8.1 64-bit or Windows 10 64-bitProcessor: Intel Core i5 or equivalentMemory: 4 GB RAMGraphics: NVIDIA® GeForce® GTX 550 or ATI™ Radeon™ HD 6XXX or higherDirectX: Version 11Storage: 60 GB available spaceAdditional Notes: Minimum requirements may change during development.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS *: Windows 7 SP1 64-bit or Windows 8.1 64-bit or Windows 10 64-bitProcessor: Intel Core i7 or equivalentMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 770 or AMD R9 280DirectX: Version 11Storage: 60 GB available spaceAdditional Notes: Recommended requirements may change during development.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:59
+Source: Fetched from Steam Web API

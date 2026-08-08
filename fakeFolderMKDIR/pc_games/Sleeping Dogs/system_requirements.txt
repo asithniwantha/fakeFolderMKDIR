@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Sleeping Dogs
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows Vista 64bit, Window 7 64bit, Windows 8 64bit (32bit O/S not supported)Processor: Core 2 Duo 2.4GHz or Athlon X2 2.7GHzMemory: 4 GB RAMGraphics: DirectX 10 or 11 compatible card, ATI Radeon 3870 or higher, NVIDIA GeForce 8800 GT or higher with 512MB graphics memory, Intel HD Graphics 2500 or higherDirectX: Version 10Storage: 20 GB available spaceSound Card: DirectX compatible sound card
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows Vista 64bit, Window 7 64bit, Windows 8 64bit (32bit O/S not supported)Processor: Core i5-2300, Phenom II X4 940 or betterMemory: 8 GB RAMGraphics: DirectX 10 or 11 compatible card, ATI Radeon 7750, NVIDIA GeForce GTX 560 or higher with 1GB graphics memory, Intel HD Graphics 4000 or higherDirectX: Version 11Storage: 20 GB available spaceSound Card: DirectX compatible sound card
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:08
+Source: Fetched from Steam Web API

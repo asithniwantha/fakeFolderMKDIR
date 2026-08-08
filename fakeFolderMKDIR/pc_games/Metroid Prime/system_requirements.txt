@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Metroid Prime
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:58
+Source: Fetched from Steam Web API

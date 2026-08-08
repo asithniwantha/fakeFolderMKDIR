@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Firewatch
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7 or higher 64bitProcessor: Intel Core i3 2.00 GHz or AMD equivalentMemory: 6 GB RAMGraphics: NVIDIA GeForce 450 or higher with 1GB MemoryDirectX: Version 11Storage: 4 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:48
+Source: Fetched from Steam Web API

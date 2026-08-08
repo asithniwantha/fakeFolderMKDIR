@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Neverwinter Nights
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7, 8.1, 10, 11 64-bitProcessor: Intel Core i3 3rd gen or equivalentMemory: 4 GB RAMGraphics: OpenGL 3.3 compatible with 2 GB of VRAMStorage: 12 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating system
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:32
+Source: Fetched from Steam Web API

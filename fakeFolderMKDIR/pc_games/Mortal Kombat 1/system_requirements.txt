@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Mortal Kombat 1
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: Intel® Core™ i5-6600 | AMD Ryzen™ 3 3100 or Ryzen™ 5 2600Memory: 8 GB RAMGraphics: Nvidia GeForce® GTX 1660 or AMD Radeon™ RX 590 or Intel® Arc™ A750DirectX: Version 12Storage: 140 GB available spaceAdditional Notes: SSD (Preferred for full online cross-play capabilities), HDD (Supported), 1080p/Low
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10/11 64-bitProcessor: Intel® Core™ i5-8400 | AMD Ryzen™ 5 3600XMemory: 8 GB RAMGraphics: Nvidia GeForce® GTX 2080 Ti or AMD Radeon™ RX 5700 XT or Intel® Arc™ A770DirectX: Version 12Storage: 140 GB available spaceAdditional Notes: SSD, 1440p/High
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:20
+Source: Fetched from Steam Web API

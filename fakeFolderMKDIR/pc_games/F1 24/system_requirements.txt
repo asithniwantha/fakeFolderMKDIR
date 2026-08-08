@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: F1 24
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 64-bit Version 21H1 or newerProcessor: Intel Core i3-2130 | Core i5-9600k (VR) or AMD FX 4300 | Ryzen 5 2600X (VR)Memory: 8 GB RAMGraphics: NVIDIA GTX 1060 (6GB) | GTX 1660Ti (VR) | RTX 2060 (RT) // AMD RX 480 (8GB) | RX 590 (VR) | 6700XT (RT) // Intel Arc A380 (VR/RT)DirectX: Version 12Network: Broadband Internet connectionStorage: 100 GB available spaceSound Card: Direct X CompatibleVR Support: Steam VR. Keyboard and mouse requiredAdditional Notes: GPU must support D3D_SHADER_MODEL_6_6.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-bit Version 21H1 or newerProcessor: Intel Core i5-9600k or AMD Ryzen 5 2600XMemory: 16 GB RAMGraphics: NVIDIA RTX 2070 (+VR) | RTX 3070 (RT) // AMD RX 6600XT | RX 6700XT (VR) | RX 6800 (RT) // Intel Arc A580 (VR/RT)DirectX: Version 12Network: Broadband Internet connectionStorage: 100 GB available spaceSound Card: Direct X CompatibleVR Support: Meta Quest 2 + Link; Oculus Rift S; HTC Cosmos; HTC Vive Pro; Valve Index; HP Reverb G2Additional Notes: GPU must support D3D_SHADER_MODEL_6_6.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:27
+Source: Fetched from Steam Web API

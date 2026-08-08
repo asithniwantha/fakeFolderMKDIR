@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Assassins Creed Brotherhood
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: MinimumOS *: Windows® XP (32-64 bits) /Windows Vista®(32-64 bits)													Processor: Intel Core® 2 Duo 1.8 GHZ or AMD Athlon X2 64 2.4GHZ													Memory: 1.5 GB Windows® XP / 2 GB Windows Vista® - Windows 7®													Graphics: 256 MB DirectX® 9.0–compliant card with Shader Model 3.0 or higher (see supported list*)													DirectX®: 9.0													Hard Drive: 8 GB													Sound: DirectX 9.0 –compliant sound card													Peripherals: Keyboard, mouse, optional controller													Supported Video Cards: ATI® RADEON®  HD 2000/3000/4000/5000/6000 series, NVIDIA GeForce® 8/9/100/200/300/400/500 series													Note* * This product does not support Windows® 98/ME/2000/NT													Requires a Uplay account.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: RecommendedOS *: Windows® XP (32-64 bits) /Windows Vista®(32-64 bits)													Processor: Intel Core® 2 Duo E6700 2.6 GHz or AMD Athlon 64 X2 6000+ or better													Memory: 1.5 GB Windows® XP / 2 GB Windows Vista® - Windows 7®													Graphics: GeForce 8800 GT or ATI Radeon HD 4700 or better													DirectX®: 9.0													Hard Drive: 8 GB													Sound: 5.1 sound card													Peripherals: Keyboard, mouse, joystick optional (Xbox 360® Controller for Windows recommended)													Supported Video Cards: ATI® RADEON®  HD 2000/3000/4000/5000/6000 series, NVIDIA GeForce® 8/9/100/200/300/400/500 series													Note* * This product does not support Windows® 98/ME/2000/NT													Requires a Uplay account.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:15:44
+Source: Fetched from Steam Web API

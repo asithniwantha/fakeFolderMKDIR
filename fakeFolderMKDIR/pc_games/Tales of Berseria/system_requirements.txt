@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Tales of Berseria
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 11Processor: Intel Core i3-8100 / AMD Ryzen 3 3100Memory: 4 GB RAMGraphics: Nvidia GeForce GTX 650Ti [1 GB] / AMD Radeon HD 7770 [2 GB] / Intel Arc A310 [4 GB]DirectX: Version 12Storage: 15 GB available spaceAdditional Notes: *SSD is required. Estimated performance: 1080p/60fps with graphics settings at &quot;Low&quot;.  Framerate might drop in graphics-intensive scenes.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 11Processor: Intel Core i5-8400 / AMD Ryzen 3 3100Memory: 8 GB RAMGraphics: Nvidia GeForce GTX 650Ti [1 GB] / AMD Radeon HD 7850 [2 GB] / Intel Arc A310 [4 GB]DirectX: Version 12Storage: 15 GB available spaceAdditional Notes: *SSD is required. Estimated performance: 1080p/60fps with graphics settings at &quot;High&quot;.   Framerate might drop in graphics-intensive scenes.   Windows 10 (Version 1809 or later) and a 4GB VRAM GPU (graphics board or video card) are required for DirectX 12 API.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:57
+Source: Fetched from Steam Web API

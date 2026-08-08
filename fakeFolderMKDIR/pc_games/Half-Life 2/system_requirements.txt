@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Half-Life 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7, Vista, XPProcessor: 1.7 GhzMemory: 512 MB RAMGraphics: DirectX 8.1 level Graphics Card (requires support for SSE)Storage: 6500 MB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:34
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Dying Light 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows® 10Processor: Intel Core i3-9100 / AMD Ryzen 3 2300XMemory: 8 GB RAMGraphics: NVIDIA® GeForce® GTX 1050 Ti / AMD Radeon™ RX 560 (4GB VRAM)Storage: 60 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows® 10Processor: AMD / Intel CPU running at 3.6 GHz or higher: AMD Ryzen 5 3600X or Intel i5-8600K or newerMemory: 16 GB RAMGraphics: NVIDIA® GeForce RTX™ 2060 6GB or AMD RX Vega 56 8GB or newerStorage: 60 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:09
+Source: Fetched from Steam Web API

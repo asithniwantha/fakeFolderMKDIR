@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Dual Universe
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: windows 8/10Processor: Intel core i5-6400Memory: 1 GB RAMGraphics: NVDIA GTX 960Storage: 1 GB available spaceSound Card: any pc with soundAdditional Notes: any normal pc can play
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: windows 8/10Processor: Intel(R)Core(TM)i7-9750H CPU @2.60GHzMemory: 2 GB RAMGraphics: NVDIA GeFore GTX 1650Storage: 2 GB available spaceSound Card: any pc with soundAdditional Notes: any normal pc can play
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:06
+Source: Fetched from Steam Web API

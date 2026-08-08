@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Prototype
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: OS *: Windows® XP (with Service Pack 3) or Windows Vista®	                    Processor: Intel® Core™2 Duo 2.6 GHz or AMD Athlon™ 64 X2 4000+ or better	                    Memory: Vista 2 GB RAM / XP 1 GB RAM	                    Graphics: All NVIDIA® GeForce® 7800 GT 256 MB and better chipsets. All ATI Radeon™ X1800 256 MB and better chipsets	                    DirectX®: Microsoft DirectX 9.0c	                    Hard Drive: 8GB of free hard drive space	                    Sound: DirectX® 9.0c compliant sound card
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:17
+Source: Fetched from Steam Web API

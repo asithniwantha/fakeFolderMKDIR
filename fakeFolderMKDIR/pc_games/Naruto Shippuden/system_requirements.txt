@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Naruto Shippuden
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows (64bit) 7 or higher up to dateProcessor: Intel Core2 Duo, 3.0GHz - AMD Athlon 64 X2 Dual Core 6400+ 3.2GHzMemory: 2 GB RAMGraphics: 1024 MB video cardDirectX: Version 11Storage: 40 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:30
+Source: Fetched from Steam Web API

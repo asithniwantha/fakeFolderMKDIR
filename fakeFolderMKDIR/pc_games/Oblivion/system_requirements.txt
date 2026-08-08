@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Oblivion
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 version 21H1 (10.0.19043)Processor: AMD Ryzen 5 2600X, Intel Core i7-6800KMemory: 16 GB RAMGraphics: AMD Radeon RX 5700, NVIDIA GeForce 1070 TiDirectX: Version 12Storage: 125 GB available spaceAdditional Notes: SSD Required
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10/11 (with updates)Processor: AMD Ryzen 5 3600X, Intel Core i5-10600KMemory: 32 GB RAMGraphics: AMD Radeon RX 6800XT or NVIDIA RTX 2080DirectX: Version 12Storage: 125 GB available spaceAdditional Notes: SSD Required; Performance scales with better hardware
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:40
+Source: Fetched from Steam Web API

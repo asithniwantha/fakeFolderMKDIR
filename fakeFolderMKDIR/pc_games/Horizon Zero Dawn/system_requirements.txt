@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Horizon Zero Dawn
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 64-bit (version 1909 or higher)Processor: Intel Core i3-8100 or AMD Ryzen 3 1300XMemory: 16 GB RAMGraphics: NVIDIA GeForce GTX 1650 4GB or AMD Radeon RX 5500 XT 4GBStorage: 135 GB available spaceAdditional Notes: 135GB SSD Space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-bit (version 1909 or higher)Processor: Intel Core i5-8600 or AMD Ryzen 5 3600Memory: 16 GB RAMGraphics: NVIDIA GeForce RTX 3060 or AMD Radeon RX 5700Storage: 135 GB available spaceAdditional Notes: 135GB SSD Space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:58
+Source: Fetched from Steam Web API

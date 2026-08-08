@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Persona 5 Royal
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10Processor: Intel Core i7-4790, 3.4 GHz | AMD Ryzen 5 1500X, 3.5 GHzMemory: 8 GB RAMGraphics: Nvidia GeForce GTX 650 Ti, 2 GB | AMD Radeon R7 360, 2 GBDirectX: Version 11Storage: 41 GB available spaceAdditional Notes: Low 720p @ 60 FPS. Requires a CPU which supports the AVX and SSE4.2 instruction set. Microsoft no longer supports Windows 10 or older versions.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10Processor: Intel Core i7-4790, 3.4 GHz | AMD Ryzen 5 1500X 3.5 GhzMemory: 8 GB RAMGraphics: Nvidia GeForce GTX 760, 2 GB | AMD Radeon HD 7870, 2 GBDirectX: Version 11Storage: 41 GB available spaceAdditional Notes: High 1080p @ 60 FPS. Microsoft no longer supports Windows 10 or older versions.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:03
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: EVE Online
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum: 					OS: Windows 10 64-bit					Processor: Intel Dual Core @ 2.0 GHz, AMD Dual Core @ 2.0 GHz)					Memory: 4 GB or higher					Video: AMD Radeon 5450 or NVIDIA GeForce 420 or better with at least 1024 MB VRAM
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended: 					OS: Windows 11					Processor: Intel i7-7700 or AMD Ryzen 7 1700 @ 3.6 GHz or greater					Memory: 16 GB or greater					Video: NVIDIA Geforce GTX 1060, AMD Radeon RX 580 or better with at least 4 GB VRAM
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:10
+Source: Fetched from Steam Web API

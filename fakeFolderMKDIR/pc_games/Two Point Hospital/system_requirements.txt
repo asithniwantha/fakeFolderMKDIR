@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Two Point Hospital
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7 64-bitProcessor: Intel Core i3 6100 or AMD FX-4350Memory: 4 GB RAMGraphics: NVIDIA Geforce GT 1030, 2GB (Legacy: NVIDIA GeForce GTX 460), AMD RX550, 2GB (Legacy: AMD Radeon HD 6850), Integrated: Intel HD Graphics 630DirectX: Version 11Storage: 6 GB available spaceAdditional Notes: Microsoft no longer supports Windows 10 or older versions
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10  64-bitProcessor: Intel Core i5 6600 or AMD Ryzen 1600xMemory: 8 GB RAMGraphics: NVIDIA Geforce GTX 1060, 3 GB (Legacy: NVIDIA Geforce GTX 780, 4GB) or AMD RX 580, 4 GB (Legacy: AMD R9 290X, 4GB)DirectX: Version 11Storage: 6 GB available spaceAdditional Notes: Microsoft no longer supports Windows 10 or older versions
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:49
+Source: Fetched from Steam Web API

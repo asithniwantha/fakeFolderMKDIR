@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Deep Rock Galactic
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7 64 BitProcessor: Intel i5, 3rd gen (or equivalent)Memory: 6 GB RAMGraphics: NVIDIA GeForce GTX 660 or AMD Radeon HD 7870DirectX: Version 11Network: Broadband Internet connectionStorage: 3 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64 BitProcessor: Intel i5, 7th gen (or equivalent)Memory: 8 GB RAMGraphics: NVIDIA 970 / AMD Radeon 290DirectX: Version 11Network: Broadband Internet connectionStorage: 3 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:45
+Source: Fetched from Steam Web API

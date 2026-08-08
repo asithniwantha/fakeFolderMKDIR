@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Dead Island Riptide
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit / Windows® 10 64-bitProcessor: Intel® Core™ i5-2500 @3.3 GHz / AMD FX-8320 @3.5 GHzMemory: 4 GB RAMGraphics: NVIDIA® GeForce® GTX 560 Ti / AMD Radeon™ HD 6870 (1GB VRAM)DirectX: Version 11Network: Broadband Internet connectionStorage: 10 GB available spaceSound Card: DirectX® compatibleAdditional Notes: Laptop versions of graphics cards may work but are NOT officially supported. Windows-compatible keyboards, mouse, optional controller (Xbox 360 Controller for Windows recommended)
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows® 7 64-bit / Windows® 8 64-bit / Windows® 8.1 64-bit / Windows® 10 64-bitProcessor: Intel® Core™ i5-4670K @3.4 GHz / AMD FX-8350 @4.0 GHzMemory: 8 GB RAMGraphics: NVIDIA® GeForce® GTX 780 / AMD Radeon™ R9 290 (2GB VRAM)DirectX: Version 11Network: Broadband Internet connectionStorage: 10 GB available spaceSound Card: DirectX® compatibleAdditional Notes: Laptop versions of graphics cards may work but are NOT officially supported. Windows-compatible keyboards, mouse, optional controller (Xbox 360 Controller for Windows recommended)
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:38
+Source: Fetched from Steam Web API

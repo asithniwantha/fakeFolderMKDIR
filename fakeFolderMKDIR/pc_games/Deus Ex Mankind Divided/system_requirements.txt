@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Deus Ex Mankind Divided
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7.1SP1 or above (64-bit Operating System Required)Processor: Intel Core i3-2100 or AMD equivalentMemory: 8 GB RAMGraphics: AMD Radeon HD 7870 (2GB) or NVIDIA GeForce GTX 660 (2GB)Storage: 45 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 10 64-bitProcessor: Intel Core i7-3770K or AMD FX 8350 WraithMemory: 16 GB RAMGraphics: AMD Radeon RX 480 - 1920 x 1080 or NVIDIA GTX 970 - 1920 x 1080Storage: 55 GB available spaceAdditional Notes: 55GB HD space includes DLC
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:51
+Source: Fetched from Steam Web API

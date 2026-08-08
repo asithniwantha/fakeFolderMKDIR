@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Just Cause 4
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7 SP1 with Platform Update for Windows 7 (64-bit versions only)Processor: Intel Core i5-2400 @ 3.1 GHz | AMD FX-6300 @ 3.5 GHz or betterMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 760 (2GB VRAM or better) | AMD R9 270 (2GB VRAM or better)DirectX: Version 11Storage: 59 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 10 (64-bit versions only)Processor: Intel Core i7-4770 @ 3.4 GHz | AMD Ryzen 5 1600 @ 3.2 GHz or equivalentMemory: 16 GB RAMGraphics: NVIDIA GeForce GTX 1070 (6GB VRAM or better) | AMD Vega 56 (6GB VRAM or better)DirectX: Version 11Storage: 59 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:19
+Source: Fetched from Steam Web API

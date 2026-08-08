@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: System Shock 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7 (64-bit required)Processor: Intel or AMD Dual-Core at 2.0 GHzMemory: 2 GB RAMGraphics: GPU with DirectX 11 or Vulkan 1.1 supportStorage: 5 GB available spaceSound Card: 100% DirectX compatible sound card or onboard sound
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 (64-bit required)Processor: Intel Core i5-2300 2.8 GHz/AMD Phenom II X4 945 3.0 GHz or equivalentMemory: 4 GB RAMGraphics: GPU with DirectX 11 or Vulkan 1.1 supportStorage: 5 GB available spaceSound Card: 100% DirectX compatible sound card or onboard sound
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:51
+Source: Fetched from Steam Web API

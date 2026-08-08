@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Guild Wars 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7 (64-bit)Processor: Intel® i3 3.4 GHz / AMD Athlon x4 3.8 GHz or betterMemory: 8 GB RAMGraphics: NVIDIA® GeForce® GTX 680 / AMD Radeon HD 7970DirectX: Version 11Network: Broadband Internet connectionStorage: 70 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating system
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:29
+Source: Fetched from Steam Web API

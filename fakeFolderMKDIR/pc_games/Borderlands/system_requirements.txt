@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Borderlands
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 / Windows 11Processor: Intel Core i7-9700 / AMD Ryzen 7 2700XMemory: 16 GB RAMGraphics: NVIDIA GeForce RTX 2070 / AMD Radeon RX 5700 XT / Intel Arc A580Storage: 100 GB available spaceAdditional Notes: Requires a 64-bit processor and operating system.   Requires 8 CPU Cores for processor.    Requires 8 GB VRAM for graphics.   SSD storage required
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 / Windows 11Processor: Intel Core i7-12700 / AMD Ryzen 7 5800XMemory: 32 GB RAMGraphics: NVIDIA GeForce RTX 3080 / AMD Radeon RX 6800 XT / Intel Arc B580Storage: 100 GB available spaceAdditional Notes: Requires a 64-bit processor and operating system. SSD storage required
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:16:30
+Source: Fetched from Steam Web API

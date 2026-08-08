@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Salt and Sanctuary
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows VistaProcessor: Intel Core 2 Duo 2.8 GHz or equivalentMemory: 1 GB RAMGraphics: DirectX 10 compatible video card with shader model 3.0 supportDirectX: Version 10Storage: 2 GB available spaceSound Card: 100% DirectX 9.0c compatible sound card and driversAdditional Notes: Xbox360 Gamepad recommended
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 8Processor: Intel Core 2 Duo or AMD Athlon 64 X2 5600+Memory: 2 GB RAMGraphics: NVIDIA® 9600GT or ATI Radeon™ HD 5000+ or betterDirectX: Version 10Storage: 2 GB available spaceSound Card: 100% DirectX 9.0c compatible sound card and driversAdditional Notes: Xbox360 Gamepad recommended
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:52
+Source: Fetched from Steam Web API

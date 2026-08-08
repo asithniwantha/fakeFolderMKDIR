@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Dragon Age Inquisition
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7 or 8.1, 64-bitProcessor: AMD Quad core @ 2.5 GHz/Intel Quad core @ 2.0 GHzMemory: 4 GB RAMGraphics: AMD Radeon HD 4870/Nvidia GeForce 8800 GTDirectX: Version 10Storage: 26 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS *: Windows 7 or 8.1, 64-bitProcessor: AMD Six core @ 3.2 GHz/ix core @ 3.2 GHz Processor (Intel): Quad core @ 3.0 GHzMemory: 8 GB RAMGraphics: AMD Radeon HD 7870 or R9 270/Nvidia GeForce GTX 660DirectX: Version 11Storage: 26 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:02
+Source: Fetched from Steam Web API

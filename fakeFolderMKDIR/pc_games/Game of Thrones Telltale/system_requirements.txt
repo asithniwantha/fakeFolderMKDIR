@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Game of Thrones Telltale
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 64 bitProcessor: Intel Core i5-2500K or AMD FX-8350Memory: 8 MB RAMGraphics: NVIDIA GeForce GTX 1060 6GBDirectX: Version 12Network: Broadband Internet connectionStorage: 60 GB available spaceAdditional Notes: SSD recommended for optimal performance
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64 bitProcessor: Intel Core i7-9700 or AMD Ryzen 5 5500Memory: 16 MB RAMGraphics: GeForce RTX 2070 8GB or AMD Radeon RX 5700 XT or Intel Arc A770DirectX: Version 12Network: Broadband Internet connectionStorage: 60 GB available spaceAdditional Notes: SSD recommended for optimal performance
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:09
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Artificial Life
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows Vista or higherProcessor: 2 GHz processorMemory: 8 GB RAMGraphics: Shader Model 3.0
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:15:41
+Source: Fetched from Steam Web API

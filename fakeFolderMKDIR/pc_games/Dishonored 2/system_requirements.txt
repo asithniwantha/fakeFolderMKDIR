@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Dishonored 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7/8/10 (64-bit versions)Processor: Intel Core i5-2400/AMD FX-8320 or betterMemory: 8 GB RAMGraphics: NVIDIA GTX 660 2GB/AMD Radeon HD 7970 3GB or betterStorage: 60 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 (64-bit versions)Processor: Intel Core i7-4770/AMD FX-8350 or betterMemory: 16 GB RAMGraphics: NVIDIA GTX 1060 6GB/AMD Radeon RX 480 8GB or betterStorage: 60 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:56
+Source: Fetched from Steam Web API

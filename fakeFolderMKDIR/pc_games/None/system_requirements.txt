@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: None
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows 10+ (32/64 bits)Processor: Dual-core 2.5 GHz or equivalentMemory: 4 GB RAMGraphics: Dedicated GPU, 1 GB VRAM/ AMD HD5750 or equivalentDirectX: Version 10Storage: 2 GB available spaceAdditional Notes: Minimal resolution: 1280*720
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 10+ (32/64 bits)Processor: Core i3 2,5 GHz or equivalentMemory: 4 GB RAMGraphics: Dedicated GPU, 2 GB VRAM / GTX 750ti or equivalentDirectX: Version 12Storage: 2 GB available spaceAdditional Notes: Recommended resolution: 1920x1080
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:39
+Source: Fetched from Steam Web API

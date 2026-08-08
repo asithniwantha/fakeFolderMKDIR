@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Kerbal Space Program
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *:Windows 7 SP1+	Processor:Core 2 Duo 2.0 Ghz	Memory:4 GB RAM	Graphics:DX10 (SM 4.0) capable, 512MB VRAM	Hard Drive:3 GB HD space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS:Windows 10 64-bit	Processor:Core i5	Memory:8 GB RAM	Graphics:DX10 (SM 4.0) capable, 1GB VRAM	Hard Drive:4 GB HD space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:20
+Source: Fetched from Steam Web API

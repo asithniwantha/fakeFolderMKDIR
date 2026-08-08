@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Ark Survival Evolved
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7/8.1/10 (64-bit versions)Processor: Intel Core i5-2400/AMD FX-8320 or betterMemory: 8 GB RAMGraphics: NVIDIA GTX 670 2GB/AMD Radeon HD 7870 2GB or betterDirectX: Version 10Storage: 60 GB available spaceAdditional Notes: Requires broadband internet connection for multiplayer
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:15:37
+Source: Fetched from Steam Web API

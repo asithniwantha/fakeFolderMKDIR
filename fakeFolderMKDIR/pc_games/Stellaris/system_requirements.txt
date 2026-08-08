@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Stellaris
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+GPU: Konfiguracja minimalna:System operacyjny: Windows® 10 Home 64 BitProcesor: Intel® iCore™ i3-530 or AMD® FX-6350Pamięć: 4 GB RAMKarta graficzna: Nvidia® GeForce™ GTX 460 or AMD® ATI Radeon™ HD 5870  (1GB VRAM), or AMD® Radeon™  RX Vega 11 or Intel® HD Graphics 4600DirectX: Wersja 9.0cSieć: Szerokopasmowe połączenie internetoweMiejsce na dysku: 10 GB dostępnej przestrzeniKarta dźwiękowa: Direct X 9.0c- compatible sound cardDodatkowe uwagi: Controller support: 3-button mouse, keyboard and speakers. Special multiplayer requirements: Internet Connection
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+GPU: Konfiguracja zalecana:System operacyjny: Windows® 10 Home 64 BitProcesor: Intel® iCore™ i5-3570K or AMD® Ryzen™ 5 2400GPamięć: 4 GB RAMKarta graficzna: Nvidia® GeForce™ GTX 560 Ti  (1GB VRAM) or AMD® Radeon™ R7 370 (2 GB VRAM)DirectX: Wersja 12Sieć: Szerokopasmowe połączenie internetoweMiejsce na dysku: 10 GB dostępnej przestrzeniKarta dźwiękowa: DirectX 9.0c-compatible sound cardDodatkowe uwagi: Controller support: 3-button mouse, keyboard and speakers. Special multiplayer requirements: Internet Connection
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:40
+Source: Fetched from Steam Web API

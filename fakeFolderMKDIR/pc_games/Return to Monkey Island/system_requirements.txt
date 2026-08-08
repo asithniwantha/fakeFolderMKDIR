@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Return to Monkey Island
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10Processor: AMD FX-4300 (4 * 3800) or equivalent / Intel Core i3-3240 (2 * 3400) or equivalentMemory: 8 GB RAMGraphics: Radeon HD 7750 (1024 VRAM) or equivalent / GeForce GT 640 (2048 VRAM) or equivalentDirectX: Version 12Storage: 4 GB available spaceAdditional Notes: Requires DirectX 12 and a DirectX 12 compatible GPU card or Vulkan 1.2.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: TBA
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:34
+Source: Fetched from Steam Web API

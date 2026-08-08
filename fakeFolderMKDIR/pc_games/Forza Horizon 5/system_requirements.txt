@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Forza Horizon 5
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 version 18362.0 or higherProcessor: Intel i5-4460 or AMD Ryzen 3 1200Memory: 8 GB RAMGraphics: NVidia GTX 970, AMD RX 470, OR Intel Arc A380DirectX: Version 12Network: Broadband Internet connectionStorage: 110 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 version 18362.0 or higherProcessor: Intel i5-8400 or AMD Ryzen 5 1500XMemory: 16 GB RAMGraphics: NVidia GTX 1070, AMD RX 590, OR Intel Arc A750DirectX: Version 12Network: Broadband Internet connectionStorage: 110 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:02
+Source: Fetched from Steam Web API

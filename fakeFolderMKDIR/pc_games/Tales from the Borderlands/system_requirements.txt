@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Tales from the Borderlands
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7 SP1 64-bitProcessor: Core 2 Duo 2GHz or equivalentMemory: 3 GB RAMGraphics: ATI or NVIDIA card w/512 MB RAMDirectX: Version 9.0cStorage: 3 GB available spaceSound Card: Direct X 9.0c sound deviceAdditional Notes: Not Recommended for Intel integrated graphics
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating system
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:54
+Source: Fetched from Steam Web API

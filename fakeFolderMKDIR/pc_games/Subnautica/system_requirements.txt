@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Subnautica
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows 10/11Processor: Intel Core i5-8400 / AMD Ryzen 5 2600Memory: 12 GB RAMGraphics: GeForce GTX 1660 6GB / RX 5500 XT 6GBDirectX: Version 12Network: Broadband Internet connectionStorage: 50 GB available spaceAdditional Notes: Requires a 64-bit processor and operating system
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 11Processor: Intel Core i7-13700 / AMD Ryzen 7 7700XMemory: 16 GB RAMGraphics: Geforce RTX 3070 8GB / RX 6700 XT 8GBDirectX: Version 12Network: Broadband Internet connectionStorage: 50 GB available spaceAdditional Notes: Requires a 64-bit processor and operating system
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:46
+Source: Fetched from Steam Web API

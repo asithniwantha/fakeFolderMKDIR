@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Day of the Tentacle
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7, Windows 8.1Processor: Intel Core i3 2.00 GHz or AMD A10Memory: 2 GB RAMGraphics: Intel® HD Graphics 3000DirectX: Version 11Storage: 4 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 10Processor: Intel Core i3 2.00 GHz or AMD A10Memory: 4 GB RAMGraphics: Intel® HD Graphics 3000DirectX: Version 11Storage: 8 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:33
+Source: Fetched from Steam Web API

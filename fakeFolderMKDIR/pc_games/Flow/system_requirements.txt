@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Flow
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows 10Processor: 2.5GHz Dual CoreMemory: 4 GB RAMGraphics: NVIDIA GTX 960DirectX: Version 11Storage: 20 GB available spaceAdditional Notes: Requires Controller
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 10Processor: 3.5GHz Quad CoreMemory: 16 GB RAMGraphics: NVIDIA GTX 1650DirectX: Version 11Storage: 20 GB available spaceAdditional Notes: Requires Controller
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:51
+Source: Fetched from Steam Web API

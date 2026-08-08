@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Grounded
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 64bitProcessor: Intel Core i3-3225Memory: 4 GB RAMGraphics: Nvidia GTX 650 TiStorage: 8 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 11 64bitProcessor: Intel Core i7-7700K or Ryzen 5 1600Memory: 8 GB RAMGraphics: GeForce GTX 1060 6GB or Radeon RX 470Storage: 8 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:26
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Braid
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: Intel Core i3-7100 / Ryzen 3 2200GMemory: 4 GB RAMGraphics: NVIDIA GTX 660 / AMD Radeon HD 7870DirectX: Version 11Storage: 4 GB available spaceSound Card: DirectX compatible
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 11 64-bitProcessor: Intel Core i5-11400F / AMD Ryzen 5 3400GGraphics: NVIDIA GTX 1070 / AMD Radeon RX 5500 XTDirectX: Version 11Storage: 4 GB available spaceSound Card: DirectX compatible
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:16:35
+Source: Fetched from Steam Web API

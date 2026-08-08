@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Minecraft Legends
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 (May 2020 Update or higher) or Windows 11Processor: Core i5 2.8GHz or equivalentMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 780 or AMD Radeon 285 or Intel HD 520 or equivalent DX12 GPUDirectX: Version 12Storage: 24 GB available spaceAdditional Notes: Performance increases with higher-end systems. Not supported on Windows 10S.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 (May 2020 Update or higher) or Windows 11Processor: Core i5 3.4GHz or equivalentMemory: 8 GB RAMGraphics: NVIDIA GTX 1060 or AMD Radeon 580DirectX: Version 12Network: Broadband Internet connectionStorage: 24 GB available spaceAdditional Notes: Performance increases with higher-end systems. Not supported on Windows 10S.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:05
+Source: Fetched from Steam Web API

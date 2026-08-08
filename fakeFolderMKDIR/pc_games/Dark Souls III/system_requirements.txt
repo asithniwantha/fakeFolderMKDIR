@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Dark Souls III
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7 SP1 64bit, Windows 8.1 64bit Windows 10 64bitProcessor: Intel Core i3-2100 / AMD® FX-6300Memory: 4 GB RAMGraphics: NVIDIA® GeForce GTX 750 Ti / ATI Radeon HD 7950DirectX: Version 11Network: Broadband Internet connectionStorage: 25 GB available spaceSound Card: DirectX 11 sound deviceAdditional Notes: Internet connection required for online play and product activation
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 7 SP1 64bit, Windows 8.1 64bit Windows 10 64bitProcessor: Intel Core i7-3770 / AMD® FX-8350Memory: 8 GB RAMGraphics: NVIDIA® GeForce GTX 970 / ATI Radeon R9 seriesDirectX: Version 11Network: Broadband Internet connectionStorage: 25 GB available spaceSound Card: DirectX 11 sound deviceAdditional Notes: Internet connection required for online play and product activation
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:27
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: F.E.A.R 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: WindowsR 7/8/8.1/10 (32bit/64bit)Processor: Intel Core 2 Duo or betterMemory: 2 GB RAMGraphics: DirectX 9/OpenGL 4.1 capable GPUDirectX: Version 9.0Storage: 1500 MB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: WindowsR 7/8/8.1/10 (32bit/64bit)Processor: Intel Core 2 Duo or betterMemory: 2 GB RAMGraphics: DirectX 9/OpenGL 4.1 capable GPUDirectX: Version 9.0Storage: 1500 MB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:24
+Source: Fetched from Steam Web API

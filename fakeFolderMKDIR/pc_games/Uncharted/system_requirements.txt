@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Uncharted
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows 10 64-bitProcessor: Intel i5-4430, AMD Ryzen 3 1200Memory: 8 GB RAMGraphics: NVIDIA GTX 960 (4 GB), AMD R9 290X (4 GB)DirectX: Version 12Storage: 126 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 10 64-bitProcessor: Intel i7-4770, AMD Ryzen 5 1500XMemory: 16 GB RAMGraphics: NVIDIA GTX 1060 (6 GB), AMD RX 570 (4 GB)DirectX: Version 12Storage: 126 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:50
+Source: Fetched from Steam Web API

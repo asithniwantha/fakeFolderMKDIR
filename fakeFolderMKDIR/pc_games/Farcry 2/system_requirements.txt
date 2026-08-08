@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Farcry 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:					Supported OS: Microsoft Windows XP or Windows Vista (64 is supported)					Processor: Pentium 4  3.2 Ghz, Pentium D 2.66 Ghz, AMD Athlon 64 3500+  or better					Memory: 1 GB					Graphics: 256 MB, Shader Model 3 required, NVidia 6800 or ATI X1650 or better*					Hard Drive: 3.5 GB (Multiple saves and user created maps will increase the amount of needed hard disk space.)					*Supported Video cards: NVidia 6800,  NVidia 7000 series, 8000 series, 9000 series, 200 series. 8800M and 8700M supported for laptops. ATI X1650 – 1950  series , HD2000  series , HD3000  series , HD4000 series
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:                        					Processor: Intel Core 2 Duo Family, AMD 64 X2 5200+, AMD Phenom or better                       					Memory: 2 GB RAM                          					Graphics: 512 MB, NVidia 8600 GTS or better,  ATI X1900 or better*                        					Sound: 5.1 sound card recommended
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:35
+Source: Fetched from Steam Web API

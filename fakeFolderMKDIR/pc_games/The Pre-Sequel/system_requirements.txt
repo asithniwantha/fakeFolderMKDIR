@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: The Pre-Sequel
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows XP SP3Processor: 2.4 GHz Dual Core ProcessorMemory: 2048 MB RAMGraphics: NVIDIA GeForce 8500 / ATI Radeon HD 2600DirectX: Version 9.0Storage: 13 GB available spaceSound Card: DirectX 9 CompliantAdditional Notes: Other Requirements &amp; Supports: Initial installation requires one time internet connection for Steam authentication; software installations required (included with the game) include Steam Client, directX 9, Microsoft .NET 4 Framework, Visual C++ Redistributable 2005, Visual C++ Redistributable 2008, Visual C++ Redistributable 2010, and AMD CPU Drivers (XP Only/AMD Only). Windows Imaging Component (Windows XP 64-Bit only)
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows XP SP3/Vista/Win 7/Win 8Processor: 2.3 GHz Quad Core processorMemory: 2048 MB RAMGraphics: NVIDIA GeForce GTX 560 / ATI Radeon HD 5850DirectX: Version 10Storage: 20 GB available spaceSound Card: DirectX 9.0 c Compliant
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:25
+Source: Fetched from Steam Web API

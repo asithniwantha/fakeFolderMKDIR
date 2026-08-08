@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: No Mans Sky
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10/11 (64-bit versions)Processor: Intel Core i3Memory: 8 GB RAMGraphics: Nvidia GTX 1060 3GB, AMD RX 470 4GB, Intel UHD graphics 630Storage: 15 GB available spaceVR Support: SteamVR
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating system
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:36
+Source: Fetched from Steam Web API

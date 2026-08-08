@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Sid Meiers Civilization VI
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7x64 / Windows 8.1x64 / Windows 10x64Processor: Intel Core i3 2.5 Ghz or AMD Phenom II 2.6 Ghz or greaterMemory: 4 GB RAMGraphics: 1 GB &amp; AMD 5570 or nVidia 450 or Intel Integrated Graphics 530DirectX: Version 11Storage: 17 GB available spaceSound Card: DirectX Compatible Sound DeviceAdditional Notes: Initial installation requires one-time Internet connection for Steam authentication; software installations required (included with the game) include Steam Client, Microsoft Visual C++ 2012 and 2015 Runtime Libraries, and Microsoft DirectX. Internet connection and acceptance of Steam™ Subscriber Agreement required for activation. See  for details.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS *: Windows 7x64 / Windows 8.1x64 / Windows 10x64Processor: Fourth Generation Intel Core i5 2.5 Ghz or AMD FX8350 4.0 Ghz or greaterMemory: 8 GB RAMGraphics: 2GB &amp; AMD 7970 or nVidia 770 or greaterDirectX: Version 11Storage: 23 GB available spaceSound Card: DirectX Compatible Sound Device
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:01
+Source: Fetched from Steam Web API

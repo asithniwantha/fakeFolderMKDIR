@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Hitman 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+GPU: Minimum: Microsoft Windows 98/ME/XP, Pentium 3 450 MHz or equivalent, 100% DirectX 8.1 compatible video card with at least 16 megabytes of video memory, 128 MB system RAM, 100% DirectX 8.1 compatible sound card, 800 MB uncompressed free hard drive space, 100% Windows 98/ME/XP compatible mouse and keyboard        					Recommended: Pentium 3 1GHz equivalent or greater, 256 MB system RAM, 100% DirectX 8.1 compatible 3D Accelerator video card with 32 MB video RAM, 100% DirectX 8.1 compatible EAX Advanced HD Sound Card
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:50
+Source: Fetched from Steam Web API

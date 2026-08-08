@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: F.E.A.R
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows 10Processor: Intel I5-12600KFMemory: 4 GB RAMGraphics: NVIDIA GTX 1060
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: windows 11Processor: Intel I5-14400Memory: 8 GB RAMGraphics: NVIDIA RTX 3060
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:23
+Source: Fetched from Steam Web API

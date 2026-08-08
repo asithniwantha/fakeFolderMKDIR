@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Silent Hill 2 Remake
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 x64Processor: Intel Core i7-6700K | AMD Ryzen 5 3600Memory: 16 GB RAMGraphics: NVIDIA® GeForce® GTX 1070 Ti or AMD Radeon™ RX 5700 or Intel®  Arc™  A750DirectX: Version 12Storage: 50 GB available spaceSound Card: Windows Compatible Audio Device.Additional Notes: Playing on minimum requirements should enable to play on Low/Medium quality settings in FullHD (1080p) in stable 30 FPS. SSD is recommended.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 x64Processor: Intel Core i7-8700K | AMD Ryzen 5 3600XMemory: 16 GB RAMGraphics: NVIDIA® GeForce® 2080RTX or AMD Radeon™ 6800XTDirectX: Version 12Storage: 50 GB available spaceSound Card: Windows Compatible Audio Device.Additional Notes: Playing on recommended requirements should enable to play on Medium quality settings in 60 FPS or High quality settings in 30 FPS, in FullHD (or 4k using DLSS or similar technology). SSD is recommended.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:02
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Thimbleweed Park
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7 (fully, FULLY patched)Processor: 2 GHzMemory: 4 GB RAMGraphics: Intel HD 3000 or betterDirectX: Version 11Storage: 1 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:35
+Source: Fetched from Steam Web API

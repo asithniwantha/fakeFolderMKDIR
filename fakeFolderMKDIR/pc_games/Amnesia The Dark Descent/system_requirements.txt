@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Amnesia The Dark Descent
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows XP/Vista/7								Processor:  2.0Ghz - Low budget CPUs such as Celeron or Duron needs to be at about twice the CPU speed								Memory: 2 GB								Hard Drive: 3GB								Graphics: Radeon X1000/GF 6 - Integrated graphics and very low budget cards might not work.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:15:30
+Source: Fetched from Steam Web API

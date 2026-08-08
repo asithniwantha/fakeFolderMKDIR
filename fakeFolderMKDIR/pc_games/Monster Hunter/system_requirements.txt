@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Monster Hunter
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: WINDOWS® 10 (64-bit required)Processor: Intel® Core™ i5 4460 or Core™ i3 9100F or AMD FX™-6300 or Ryzen™ 3 3200GMemory: 8 GB RAMGraphics: NVIDIA®GeForce®GTX 760 or GTX1050 or AMD Radeon™ R7 260x or RX 560DirectX: Version 11Network: Broadband Internet connectionStorage: 52 GB available spaceSound Card: DirectSound (DirectX® 9.0c or later)Additional Notes: - These specs allow for the game to be played in 1080p/30fps with graphics settings at &quot;Low&quot;. - 64-bit processor and operating system are required.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: WINDOWS® 10 (64-bit required)Processor: Intel® Core™ i7 3770 or Core™ i3 8350 or Core™ i3 9350F / AMD Ryzen™ 5 1500X or Ryzen™ 5 3400GMemory: 8 GB RAMGraphics: NVIDIA® GeForce® GTX 1060 (VRAM 3GB) or GTX 1650 / AMD Radeon™ RX 480 or RX 570DirectX: Version 11Network: Broadband Internet connectionStorage: 52 GB available spaceSound Card: DirectSound (DirectX® 9.0c or later)Additional Notes: - These specs allow for the game to be played in 1080p/30fps with graphics settings at &quot;High&quot;. - 64-bit processor and operating system are required. - Windows 10 (Version 1809 or later) and a 4GB VRAM GPU (graphics board or video card) are required for DirectX 12 API.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:11
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Icewind Dale
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7, 8.1, 10 64 bitProcessor: Dual Core ProcessorMemory: 1 GB RAMGraphics: OpenGL 2.0 compatibleStorage: 4 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:01
+Source: Fetched from Steam Web API

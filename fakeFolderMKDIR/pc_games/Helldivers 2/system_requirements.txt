@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Helldivers 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10Processor: Intel Core i7-4790K or AMD Ryzen 5 1500XMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 1050 Ti or AMD Radeon RX 470Storage: 135 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10Processor: Intel Core i7-9700K or AMD Ryzen 7 3700XMemory: 16 GB RAMGraphics: NVIDIA GeForce RTX 2060 or AMD Radeon RX 6600XTStorage: 40 GB available spaceAdditional Notes: SSD Recommended
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:46
+Source: Fetched from Steam Web API

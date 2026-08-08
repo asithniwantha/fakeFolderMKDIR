@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Overwatch
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows® 10 64-bit (latest Service Pack)Processor: Intel® Core™ i3 or AMD Phenom™ X3 8650Memory: 6 GB RAMGraphics: NVIDIA® GeForce® GTX 600 series, AMD Radeon™ HD 7000 seriesDirectX: Version 11Network: Broadband Internet connectionStorage: 50 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows® 10 64-bit (latest Service Pack)Processor: Intel® Core™ i7 or AMD Ryzen™ 5Memory: 8 GB RAMGraphics: NVIDIA® GeForce® GTX 1060/ GeForce® GTX 1650 or AMD R9 380/AMD RX 6400 or Intel® Arc™ A770DirectX: Version 11Network: Broadband Internet connectionStorage: 50 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:51
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Black Mesa
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows® 10 or NewerProcessor: 2.6 Dual Core Processor or GreaterMemory: 6 GB RAMGraphics: 2 GB Dedicated Video Card or GreaterDirectX: Version 9.0cNetwork: Broadband Internet connectionStorage: 20 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows® 10 or NewerProcessor: 3.2 Quad Core Processor or GreaterMemory: 8 GB RAMGraphics: 4 GB Dedicated Video Card or GreaterDirectX: Version 9.0cNetwork: Broadband Internet connectionStorage: 20 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:16:21
+Source: Fetched from Steam Web API

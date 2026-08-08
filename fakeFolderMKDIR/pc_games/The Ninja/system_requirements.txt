@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: The Ninja
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7/8/8.1/10 x86 and x64Processor: Intel Core2 Quad Q9300 (4 * 2500) or equivalent / AMD A8-3850 (2 * 2900) or equivalentMemory: 4 GB RAMGraphics: GeForce GT 430 (1024 MB) / Radeon HD 5570 (1024 MB)DirectX: Version 11Network: Broadband Internet connectionStorage: 20 GB available spaceAdditional Notes: Windows XP and DirectX 9.0 and below are not supported
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 7/8/8.1/10 x86 and x64Processor: Intel Core i5-2500K (4 * 3300) or equivalent / AMD FX-6100 (6 * 3300) or equivalentMemory: 4 GB RAMGraphics: GeForce GTX 750 Ti (2048 MB) / Radeon HD 7850 (2048 MB)DirectX: Version 11Network: Broadband Internet connectionStorage: 20 GB available spaceAdditional Notes: Windows XP and DirectX 9.0 and below are not supported
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:20
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Elden Ring
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10Processor: INTEL CORE I5-8400 or AMD RYZEN 3 3300XMemory: 12 GB RAMGraphics: NVIDIA GEFORCE GTX 1060 3 GB or AMD RADEON RX 580 4 GBDirectX: Version 12Storage: 60 GB available spaceSound Card: Windows Compatible Audio DeviceAdditional Notes:
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10/11Processor: INTEL CORE I7-8700K or AMD RYZEN 5 3600XMemory: 16 GB RAMGraphics: NVIDIA GEFORCE GTX 1070 8 GB or AMD RADEON RX VEGA 56 8 GBDirectX: Version 12Storage: 60 GB available spaceSound Card: Windows Compatible Audio DeviceAdditional Notes:
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:12
+Source: Fetched from Steam Web API

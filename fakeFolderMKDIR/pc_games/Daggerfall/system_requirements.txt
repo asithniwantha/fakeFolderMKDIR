@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Daggerfall
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: PC/MS-DOS 6.0Processor: Intel i486 DX2Memory: 8 MB RAMStorage: 25 MB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:23
+Source: Fetched from Steam Web API

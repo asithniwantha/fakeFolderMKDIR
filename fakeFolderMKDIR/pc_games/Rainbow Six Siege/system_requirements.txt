@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Rainbow Six Siege
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows 10, Windows 11 (64-bit versions)Processor: AMD Ryzen 3 3100 / Intel i3-8100Memory: 8 GB RAMGraphics: Nvidia GTX 1650 4GB / AMD RX 5500XT 4GB / Intel ARC A380 6GBDirectX: Version 12Network: Broadband Internet connectionStorage: 65 GB available spaceSound Card: DirectX® 9.0c compatible sound card with latest driversAdditional Notes: For an up-to-date list of supported chipsets, please visit the FAQ for this game on our support website. Game contains BattleEye anti-cheat technology.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 11 (64-bit versions)Processor: AMD Ryzen5 3600 / Intel i5-10400Memory: 8 GB RAMGraphics: NVIDIA RTX 2060 6GB / AMD RX 6600 8GBDirectX: Version 12Network: Broadband Internet connectionStorage: 65 GB available spaceSound Card: DirectX® 9.0c compatible sound card 5.1 with latest driversAdditional Notes: For an up-to-date list of supported chipsets, please visit the FAQ for this game on our support website. Game contains BattleEye anti-cheat technology.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:23
+Source: Fetched from Steam Web API

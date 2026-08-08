@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Kingdom Come Deliverance
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 64-bit (or newer)Processor: Intel Core i5-8400, AMD Ryzen 5 2600Memory: 16 GB RAMGraphics: NVIDIA GeForce GTX 1060 (6GB), AMD Radeon RX 580Storage: 100 GB available spaceAdditional Notes: SSD required
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-bit (or newer)Processor: Intel Core i7-13700K, AMD Ryzen 7 7800X3DMemory: 32 GB RAMGraphics: NVIDIA GeForce RTX 4070, AMD Radeon RX 7800 XTStorage: 100 GB available spaceAdditional Notes: SSD required
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:24
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: LBP 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:27
+Source: Fetched from Steam Web API

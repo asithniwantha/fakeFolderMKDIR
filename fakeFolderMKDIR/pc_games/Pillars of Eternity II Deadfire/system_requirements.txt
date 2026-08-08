@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Pillars of Eternity II Deadfire
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows Vista 64-bit or newerProcessor: Intel Core i3-2100T @ 2.50 GHz / AMD Phenom II X3 B73Memory: 4 GB RAMGraphics: DirectX 11 CompatibleStorage: 45 GB available spaceSound Card: DirectX Compatible Sound Card
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-bit or newerProcessor: Intel Core i5-2400 @ 3.10 GHz / AMD Phenom II X6 1100TMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 960Storage: 45 GB available spaceSound Card: DirectX Compatible Sound Card
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:05
+Source: Fetched from Steam Web API

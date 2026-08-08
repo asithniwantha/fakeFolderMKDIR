@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Bloodstained Ritual of the Night
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7Processor: AMD FX-4350 / Intel Core i5-4460Memory: 4 GB RAMGraphics: AMD Radeon R9 280X / GeForce GTX 760Storage: 10 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 10 (64-bit)Processor: AMD FX-6300 / Intel Core i5-4590Memory: 8 GB RAMGraphics: AMD Radeon R9 290 / GeForce GTX 1050 TiStorage: 10 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:16:27
+Source: Fetched from Steam Web API

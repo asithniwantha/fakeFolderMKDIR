@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Insurgency Sandstorm
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10/11 (64 bits)Processor: Intel Core i5-4440 (3.10GHz)/AMD FX-6300 (3.50GHz)Memory: 8 GB RAMGraphics: NVIDIA GeForce GTX 760/AMD Radeon HD 7970DirectX: Version 11Storage: 40 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10/11 (64 bits)Processor: Intel Core i7-8700 (3.20GHz)/AMD Ryzen 7 2700 (3.20GHz)Memory: 16 GB RAMGraphics: NVIDIA GeForce GTX 980/AMD Radeon R9 390XDirectX: Version 11Storage: 40 GB available spaceAdditional Notes: SSD is recommended.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:03
+Source: Fetched from Steam Web API

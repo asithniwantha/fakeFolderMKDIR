@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: God of War Ragnarok
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 20H1Processor: Intel i5-4670k or AMD Ryzen 3 1200Memory: 8 GB RAMGraphics: NVIDIA GTX 1060 (6GB) or AMD RX 5500 XT (8GB) or Intel Arc A750DirectX: Version 12Storage: 190 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 20H1Processor: Intel i5-8600 or AMD Ryzen 5 3600Memory: 16 GB RAMGraphics: NVIDIA RTX 2060 Super or AMD RX 5700 or Intel Arc A770DirectX: Version 12Storage: 190 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:17
+Source: Fetched from Steam Web API

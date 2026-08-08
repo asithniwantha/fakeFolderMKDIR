@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: DOTA 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7 or newerProcessor: Dual core from Intel or AMD at 2.8 GHzMemory: 4 GB RAMGraphics: NVIDIA GeForce 8600/9600GT, ATI/AMD Radeon HD2600/3600DirectX: Version 11Network: Broadband Internet connectionStorage: 60 GB available spaceSound Card: DirectX Compatible
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:21
+Source: Fetched from Steam Web API

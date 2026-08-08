@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Deus Ex Human Revolution
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows XP, Windows Vista, Windows 7 or Windows 8Processor: 2 GHz dual coreMemory: 2 GB RAMGraphics: NVIDIA GeForce 8000 series or ATI Radeon HD 2000 series or betterDirectX: Version 9.0cStorage: 17 GB available spaceSound Card: 100% DirectX 9.0c compatible sound device
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 7 or Windows 8Processor: AMD Phenom II X4 or Intel Core 2 Quad or betterMemory: 2 GB RAMGraphics: AMD Radeon HD 5850DirectX: Version 9.0cStorage: 17 GB available spaceSound Card: 100% DirectX 9.0c compatible sound device
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:49
+Source: Fetched from Steam Web API

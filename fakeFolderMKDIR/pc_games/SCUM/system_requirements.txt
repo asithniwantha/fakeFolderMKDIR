@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: SCUM
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: Intel Core i5-4430 / AMD FX-6300Memory: 16 GB RAMGraphics: NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 480 4GBDirectX: Version 11Network: Broadband Internet connectionStorage: 80 GB available spaceAdditional Notes: SSD Required
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: Intel Core i5-6600K / AMD Ryzen 5 1600Memory: 16 GB RAMGraphics: NVIDIA GeForce RTX 2060 / AMD Radeon RX 5700DirectX: Version 12Network: Broadband Internet connectionStorage: 80 GB available spaceAdditional Notes: SSD Required
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:42
+Source: Fetched from Steam Web API

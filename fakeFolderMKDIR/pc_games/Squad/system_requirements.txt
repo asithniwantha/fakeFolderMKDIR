@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Squad
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 (x64)Processor: Intel Core i5-8400, AMD Ryzen 3600Memory: 8 GB RAMGraphics: Nvidia GTX 1060 6GB, AMD Radeon RX 580 with at least 6GB of VRAMDirectX: Version 12Network: Broadband Internet connectionStorage: 65 GB available spaceAdditional Notes: A teamwork oriented mindset
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 11 Processor: Intel Core i5-12400, AMD Ryzen 5600Memory: 16 GB RAMGraphics: Nvidia GeForce RTX 3060, AMD Radeon RX 6600 XTDirectX: Version 12Network: Broadband Internet connectionStorage: 65 GB available spaceAdditional Notes: A microphone
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:30
+Source: Fetched from Steam Web API

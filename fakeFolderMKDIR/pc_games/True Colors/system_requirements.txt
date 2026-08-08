@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: True Colors
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: AMD Phenom II X4 965, 3.40 GHz / Intel Core i5-2300, 2.80 GHzMemory: 6 GB RAMGraphics: Radeon HD 7790, 2 GB / GeForce GTX 750Ti, 2 GBDirectX: Version 11Storage: 30 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: AMD FX-8350, 4.00 GHz / Intel Core i5-3470, 3.20 GHzMemory: 8 GB RAMGraphics: Radeon RX 590, 8 GB / GeForce GTX 1060, 6 GBDirectX: Version 11Storage: 30 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:46
+Source: Fetched from Steam Web API

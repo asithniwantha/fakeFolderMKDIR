@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Saints Row The Third
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows® XP																Processor: 2GHz Dual Core Processor (Intel® Core 2 Duo or AMD Athlon™ X2) or higher																Memory: 2GB System RAM or more																Graphics: 320MB Video RAM GPU w/ Shader Model 3.0 support.  NVIDIA® GeForce® 8800 series or better.  ATI Radeon™ HD3800 series or better																DirectX®: 9.0c																Hard Drive: 10GB																Sound: 100% DirectX® 9.0C compliant sound card or equivalent onboard sound																Co-Op Play:NVIDIA® GeForce® 8800 cards require 640MB of Video RAM.  ATI Radeon™ HD3800 cards require 1GB of Video RAM
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Microsoft® Windows® 7																Processor: Any Quad Core Processor (Intel® Core i5 or AMD Phenom™ II X4) or 3.0+ Dual Core CPU																Memory: 4GB System RAM or more																Graphics: 1GB Video RAM GPU w/ Shader Model 4.0 support.  NVIDIA® GeForce® GTX 400 series or better.  ATI Radeon™ HD5000 series or better 																DirectX®: DirectX® 11																Hard Drive: 10 GB																Sound: 100% DirectX® 9.0C compliant sound card or equivalent onboard sound
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:51
+Source: Fetched from Steam Web API

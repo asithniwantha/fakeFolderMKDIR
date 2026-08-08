@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: BeamNG
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 64 BitProcessor: AMD Ryzen 5 1600 / Intel Core i5 8400Memory: 16 GB RAMGraphics: Minimum 6GB VRAM (AMD Radeon RX 570 / Nvidia GeForce GTX 1060)DirectX: Version 11Storage: 60 GB available spaceAdditional Notes: Installing game mods will increase required storage space. Gamepad recommended.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64 BitProcessor: AMD Ryzen 7 3700X / Intel Core i7 9700Memory: 32 GB RAMGraphics: Minimum 8GB VRAM (AMD RX 6700 / Nvidia GeForce RTX 3060)DirectX: Version 11Storage: 60 GB available spaceVR Support: 10GB VRAM GPU with Vulkan support and OpenXRAdditional Notes: Recommended spec based on 1080p resolution. Installing game mods will increase required storage space. Gamepad recommended.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:16:11
+Source: Fetched from Steam Web API

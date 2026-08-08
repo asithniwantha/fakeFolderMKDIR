@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Star Wars The Old Republic
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows 10 or later – 64-bitProcessor: AMD Athlon 64 X2 Dual-Core 4000+ or better / Intel Core 2 Duo 2.0GHz or betterMemory: 6 GB RAMGraphics: Star Wars: The Old Republic requires a video card that has a minimum of 1 GB of on-board RAM as well as support for Shader 3.0 or better. Examples include: Intel HD 3000 or better/AMD Radeon HD 7450/Nvidia GeForce 610Network: Broadband Internet connectionStorage: 75 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:34
+Source: Fetched from Steam Web API

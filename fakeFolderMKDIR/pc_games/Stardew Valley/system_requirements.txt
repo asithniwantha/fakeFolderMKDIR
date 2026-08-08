@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Stardew Valley
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows Vista or greaterProcessor: 2 GhzMemory: 2 GB RAMGraphics: 256 mb video memory, shader model 3.0+DirectX: Version 10Storage: 500 MB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:37
+Source: Fetched from Steam Web API

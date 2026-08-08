@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: League of Legends
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10, 64-bitProcessor: Intel Core i5-2300, AMD A8-5600kMemory: 8 GB RAMGraphics: Radeon Vega 8 / Intel Iris Plus / Geforce GTX 650 / Radeon HD 7770 (2GB VRAM Required)DirectX: Version 11Storage: 15 GB available spaceAdditional Notes: Recommended for 1080p, 30FPS on Medium Settings
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10, 64-bitProcessor: Intel Core i3-6100, AMD FX-8120Memory: 8 GB RAMGraphics: Geforce GTX 660Ti, Radeon HD 7950DirectX: Version 11Storage: 15 GB available spaceAdditional Notes: Recommended for 1440p, 60FPS on High Settings
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:31
+Source: Fetched from Steam Web API

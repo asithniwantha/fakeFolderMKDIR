@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Starbase
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 (64-bit)Processor: AMD Ryzen 5 / Intel i7Memory: 16 GB RAMGraphics: NVIDIA GeForce GTX 1060 6 GB / AMD Radeon RX 480 4 GBDirectX: Version 12Network: Broadband Internet connectionStorage: 40 GB available spaceAdditional Notes: The game requires an Internet connection to play.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 (64-bit)Processor: AMD Ryzen 7 / Intel i7-6700kMemory: 16 GB RAMGraphics: NVIDIA GeForce GTX 1080 Ti 11 GB / AMD Radeon RX 5700 8 GBDirectX: Version 12Network: Broadband Internet connectionStorage: 40 GB available spaceAdditional Notes: The game requires an Internet connection to play. SSD storage drive highly recommended for smooth loading times.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:35
+Source: Fetched from Steam Web API

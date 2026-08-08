@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Metal Gear Solid IV
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows 7x64, Windows 8x64, Windows 10x64 (64-bit OS Required)Processor: Intel Core i5-4460 (3.40 GHz) or better; Quad-core or betterMemory: 4 GB RAMGraphics: NVIDIA GeForce GTX 650 (2GB) or better (DirectX 11 card Required)DirectX: Version 11Storage: 28 GB available spaceSound Card: DirectX 9.0c compatible sound card
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 7x64, Windows 8x64, Windows 10x64 (64-bit OS Required)Processor: Intel Core i7-4790 (3.60GHz) or better; Quad-core or betterMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 760 (DirectX 11 graphic card required)DirectX: Version 11Storage: 28 GB available spaceSound Card: DirectX 9.0c compatible sound card (Surround Sound 5.1)
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:55
+Source: Fetched from Steam Web API

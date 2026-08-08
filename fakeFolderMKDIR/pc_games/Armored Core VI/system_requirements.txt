@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Armored Core VI
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10Processor: Intel Core i7-4790K | Intel Core i5-8400 or AMD Ryzen 7 1800X | AMD Ryzen 5 2600Memory: 12 GB RAMGraphics: NVIDIA GeForce GTX 1650, 4 GB or AMD Radeon RX 480, 4 GBDirectX: Version 12Storage: 60 GB available spaceSound Card: Windows Compatible Audio Device
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10/11Processor: Intel Core i7-7700 | Intel Core i5-10400 or AMD Ryzen 7 2700X | AMD Ryzen 5 3600Memory: 12 GB RAMGraphics: NVIDIA GeForce GTX 1060, 6GB or AMD Radeon RX 590, 8GB or Intel Arc A750, 8GBDirectX: Version 12Storage: 60 GB available spaceSound Card: Windows Compatible Audio Device
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:15:39
+Source: Fetched from Steam Web API

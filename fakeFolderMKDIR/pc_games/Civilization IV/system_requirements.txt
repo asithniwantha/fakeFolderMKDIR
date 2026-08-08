@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Civilization IV
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:  Windows 2000 (plus Service Pack 1 or higher), Windows XP Home or Professional (plus Service Pack 1 or higher), or Windows Vista; 1.2GHz Intel Pentium 4 or AMD Athlon processor, 256 MB RAM, 64 MB video card with hardware T&amp;L (GeForce 2, Radeon 7500 or better), DirectX 7 compatible sound card, 1.7 GB of free hard drive space, DirectX 9.0c (included)					Recommended:  1.8GHz Intel Pentium 4 or AMD Athlon processor or equivalent (or better), 512 MB RAM, 128 MB video card with DirectX 8 support (pixel and vertex shaders), DirectX 7 compatible sound card, 1.7 GB of free hard drive space, DirectX 9.0c (included)
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:16:48
+Source: Fetched from Steam Web API

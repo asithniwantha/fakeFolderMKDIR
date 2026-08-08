@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Mortal Online 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: 64-bit Windows 10/11Processor: Core i5-6600 or Ryzen 5 1600 or EquivalentMemory: 16 GB RAMGraphics: GeForce GTX 1060 6GB, Radeon RX 580 8GB or Arc A380DirectX: Version 11Network: Broadband Internet connectionStorage: 70 GB available spaceAdditional Notes: SSD hard drive is recommended
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: 64-bit Windows 10/11Processor: Core i7-12700 or Ryzen 7 7800X3D or EquivalentMemory: 32 GB RAMGraphics: GeForce RTX 2060. Radeon RX 5700 XT or Arc A770DirectX: Version 12Network: Broadband Internet connectionStorage: 110 GB available spaceAdditional Notes: SSD hard drive
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:23
+Source: Fetched from Steam Web API

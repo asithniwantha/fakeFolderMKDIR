@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Outlast 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows Vista / 7 / 8 / 10,  64-bitsProcessor: Intel Core i3-530Memory: 4 GB RAMGraphics: 1GB VRAM, NVIDIA Geforce GTX 260 / ATI Radeon HD 4870DirectX: Version 10Storage: 30 GB available spaceSound Card: DirectX CompatibleAdditional Notes: Targetting 720p @ 30 fps
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows Vista / 7 / 8 / 10,  64-bitsProcessor: Intel Core i5Memory: 8 GB RAMGraphics: 1.5GB VRAM, NVIDIA Geforce GTX 660 / ATI Radeon HD 7850DirectX: Version 11Storage: 30 GB available spaceSound Card: DirectX CompatibleAdditional Notes: Targetting 1080p @ 60 fps
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:49
+Source: Fetched from Steam Web API

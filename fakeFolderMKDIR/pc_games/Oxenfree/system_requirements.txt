@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Oxenfree
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7Processor: Intel i3 2.0 GHzMemory: 2 GB RAMGraphics: 1GB Shader Model 3.0 Compatible (DirectX 9.0c)DirectX: Version 9.0cStorage: 3 GB available spaceSound Card: DirectX 9.0 Compatible
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 8.1 64-bitProcessor: Intel i5 2.5 GHzMemory: 4 GB RAMGraphics: NVIDIA GeForce GTX 460 / Radeon HD 6750 (or higher)DirectX: Version 11Network: Broadband Internet connectionStorage: 3 GB available spaceSound Card: DirectX 9.0 Compatible
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:53
+Source: Fetched from Steam Web API

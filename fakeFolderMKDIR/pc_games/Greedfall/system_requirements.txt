@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Greedfall
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7/8/10 (64 bits)Processor: Intel Core i5-3450 (3.1 GHz) / AMD FX-6300 X6 (3.5 GHz)Memory: 8 GB RAMGraphics: 2 GB, GeForce GTX 660/Radeon HD 7870Storage: 25 GB available spaceAdditional Notes: INTERNET CONNECTION REQUIRED FOR GAME ACTIVATION
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS *: Windows 7/8/10 (64 bits)Processor: Intel Core i5-4690 (3.5 GHz)/AMD FX-8300 (3.3 GHz)Memory: 16 GB RAMGraphics: 4 GB, GeForce GTX 980 / Radeon RX 590Storage: 25 GB available spaceAdditional Notes: INTERNET CONNECTION REQUIRED FOR GAME ACTIVATION
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:23
+Source: Fetched from Steam Web API

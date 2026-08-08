@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Knack
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7 SP1/8.1/10Processor: 2014 or newer Intel Core i5 / AMDMemory: 4 GB RAMGraphics: Integrated GraphicsDirectX: Version 11Storage: 4 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 7 SP1/8.1/10Processor: Intel or AMD 64-bit capable processorMemory: 4 GB RAMGraphics: Nvidia or ATi GPU with 2GB+ MemoryDirectX: Version 11Storage: 4 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:25
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Scarlet Nexus
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10Processor: Intel Core i5-3470 | AMD FX-8350Memory: 6 GB RAMGraphics: Nvidia GeForce GTX 760, 2 GB | AMD Radeon HD 7970, 3 GBDirectX: Version 11Storage: 50 GB available spaceAdditional Notes: Estimated performance: 1080p/60fps with graphics settings at &quot;Low&quot;. Framerate might drop in graphics-intensive scenes.  - 64-bit processor and operating system are required.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10Processor: Intel Core i5-4690K | AMD Ryzen 5 2600XMemory: 8 GB RAMGraphics: Nvidia GeForce GTX 970, 4 GB | AMD Radeon R9 290X, 4 GBDirectX: Version 11Storage: 50 GB available spaceAdditional Notes: Estimated performance: 1080p/60fps with graphics settings at &quot;High&quot;.  Framerate might drop in graphics-intensive scenes.  - 64-bit processor and operating system are required. - Windows 10 (Version 1809 or later) and a 4GB VRAM GPU (graphics board or video card) are required for DirectX 12 API.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:55
+Source: Fetched from Steam Web API

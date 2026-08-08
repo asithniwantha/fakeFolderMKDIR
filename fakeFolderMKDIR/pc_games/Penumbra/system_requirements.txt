@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Penumbra
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: XP/Vista                    					Processor: 1.0 Ghz                    					Memory: 256MB(XP)                    					Graphics: Radeon 8500 / Geforce 3(MX4 Not supported)                    					Hard Drive: 800MB Free Space                    					Sound: Soundblaster compatible
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:00
+Source: Fetched from Steam Web API

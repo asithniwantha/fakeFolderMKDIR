@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Brink
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:												OS *: XP(SP3)/Vista/Windows 7												Processor: Intel Core 2 Duo 2.4GHz or equivalent												Memory: 2GB RAM												Hard Drive: 8GB of free space												Graphics: NVIDIA 8800GS / ATI Radeon HD 2900 Pro or equivalent
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:												OS *: XP(SP3)/Vista/Windows 7												Processor: Intel Quad Core i5												Memory: 3GB RAM												Hard Drive: 8GB of free space												Graphics: Nvidia GeForce GTX 460 / ATI Radeon™ HD 5850
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:16:37
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Terraria
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: REQUIREDOS: Windows Xp, Vista, 7, 8/8.1, 10 										Processor: 2.0 Ghz 										Memory: 2.5GB										Hard Disk Space: 200MB  											Video Card: 128mb Video Memory, capable of Shader Model 2.0+ 										DirectX®: 9.0c or Greater
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: RECOMMENDEDOS: Windows 7, 8/8.1, 10 										Processor: Dual Core 3.0 Ghz 										Memory: 4GB										Hard Disk Space: 200MB  											Video Card: 256mb Video Memory, capable of Shader Model 2.0+ 										DirectX®: 9.0c or Greater
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:08
+Source: Fetched from Steam Web API

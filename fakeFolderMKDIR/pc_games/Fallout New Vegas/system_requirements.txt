@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Fallout New Vegas
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: OS *: Windows 7/Vista/XP 								Processor: Dual Core 2.0GHz								Memory: 2GB RAM								Hard Disk Space: 10GB free space								Video Card: NVIDIA GeForce 6 series, ATI 1300XT series
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:32
+Source: Fetched from Steam Web API

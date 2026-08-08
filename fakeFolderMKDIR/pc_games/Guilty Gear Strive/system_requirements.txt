@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Guilty Gear Strive
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 8/10 (64-bit OS required)Processor: AMD FX-4350, 4.2 GHz / Intel Core i5-3450, 3.10 GHzMemory: 4 GB RAMGraphics: Radeon HD 6870, 1 GB / GeForce GTX 650 Ti, 1 GBDirectX: Version 11Network: Broadband Internet connectionStorage: 26 GB available spaceSound Card: DirectX compatible soundcard or onboard chipset
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 8/10 (64-bit OS required)Processor: Intel Core i7-3770, 3.40 GHzMemory: 8 GB RAMGraphics: GeForce GTX 660DirectX: Version 11Network: Broadband Internet connectionStorage: 30 GB available spaceSound Card: DirectX compatible soundcard or onboard chipset
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:30
+Source: Fetched from Steam Web API

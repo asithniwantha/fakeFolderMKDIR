@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Mortal Kombat 11
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: 64-bit Windows 7 / Windows 10Processor: Intel Core i5-750, 2.66 GHz / AMD Phenom II X4 965, 3.4 GHz or AMD Ryzen™ 3 1200, 3.1 GHzMemory: 8 GB RAMGraphics: NVIDIA® GeForce™ GTX 670 or NVIDIA® GeForce™ GTX 1050 / AMD® Radeon™ HD 7950 or AMD® Radeon™ R9 270DirectX: Version 11Network: Broadband Internet connection
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: 64-bit Windows 7 / Windows 10Processor: Intel Core i5-2300, 2.8 GHz / AMD FX-6300, 3.5GHz or AMD Ryzen™ 5 1400, 3.2 GHzMemory: 8 GB RAMGraphics: NVIDIA® GeForce™ GTX 780 or NVIDIA® GeForce™ GTX 1060-6GB / AMD® Radeon™ R9 290 or RX 570DirectX: Version 11Network: Broadband Internet connection
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:21
+Source: Fetched from Steam Web API

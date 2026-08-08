@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Escape from Tarkov
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10Processor: AMD Ryzen 5 3600 or similarMemory: 16 GB RAMGraphics: GTX 1660 or similarDirectX: Version 11Storage: 80 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 11Processor: Intel Core i7-14700F or betterMemory: 64 GB RAMGraphics: RTX 4070 or betterDirectX: Version 11Storage: 80 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:18
+Source: Fetched from Steam Web API

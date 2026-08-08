@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Prison Architect
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS:Windows® 10 Home 64 Bit	Processor:Intel Core2 Duo 2.4Ghz or Higher / AMD 3Ghz or Higher	Memory:6 GB RAM	Graphics:Nvidia 8600 / Radeon equivalent (2009 era)	Hard Drive:400 MB HD space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:14
+Source: Fetched from Steam Web API

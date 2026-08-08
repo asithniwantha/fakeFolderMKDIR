@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Dead by Daylight
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 64-bit Operating SystemProcessor: Intel Core i3-4170 or AMD FX-8120Memory: 8 GB RAMGraphics: DX11 Compatible GeForce GTX 460 1GB or AMD HD 6850 1GBDirectX: Version 11Network: Broadband Internet connectionStorage: 50 GB available spaceSound Card: DX11 compatibleAdditional Notes: With these requirements, it is recommended that the game is played on Low quality settings.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-bit Operating SystemProcessor: Intel Core i3-4170 or AMD FX-8300 or higherMemory: 8 GB RAMGraphics: DX11 Compatible GeForce 760 or AMD HD 8800 or higher with 4GB of RAMDirectX: Version 11Network: Broadband Internet connectionStorage: 50 GB available spaceSound Card: DX11 compatible
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:40
+Source: Fetched from Steam Web API

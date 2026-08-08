@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Dishonored
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows Vista / Windows 7	Processor: 3.0 GHz dual core or better	Memory: 3 GB system RAM	Hard Disk Space: 9 GB	Video Card: DirectX 9 compatible with 512 MB video RAM or better (NVIDIA GeForce GTX 460 / ATI Radeon HD 5850)	Sound: Windows compatible sound card
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows Vista / Windows 7 (enhanced for 64-bit OS)	Processor: 2.4 GHz quad core or better (enhanced for multi-core processors)	Memory: 4 GB system RAM	Hard Disk Space: 9 GB	Video Card: DirectX 9 compatible with 768 MB video RAM or better (NVIDIA GeForce GTX 460 / ATI Radeon HD 5850)	Sound: Windows compatible sound card
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:54
+Source: Fetched from Steam Web API

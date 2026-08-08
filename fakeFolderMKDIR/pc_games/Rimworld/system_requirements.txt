@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Rimworld
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7Processor: Core 2 DuoMemory: 4 GB RAMGraphics: Intel HD Graphics 4000 or other shader model 4.0Storage: 1 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:36
+Source: Fetched from Steam Web API

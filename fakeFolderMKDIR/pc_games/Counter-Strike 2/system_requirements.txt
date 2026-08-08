@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Counter-Strike 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows® 10Processor: 4 hardware CPU threads - Intel® Core™ i5 750 or higherMemory: 8 GB RAMGraphics: Video card must be 1 GB or more and should be a DirectX 11-compatible with support for Shader Model 5.0DirectX: Version 11Storage: 85 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:16:57
+Source: Fetched from Steam Web API

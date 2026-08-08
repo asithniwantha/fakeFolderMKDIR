@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Dishonored Death of the Outsider
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7/8/10 (64 bit version)Processor: Intel i5-2400 (4 core)/AMD FX-8320 (8 core)Memory: 8 GB RAMGraphics: NVidia GTX 660 2GB/AMD Radeon 7970 3GBStorage: 32 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 (64 bit version)Processor: Intel i7-4770 (4 core)/AMD FX-8350 (8 core)Memory: 16 GB RAMGraphics: NVidia GTX 1060 6GB/ AMD Radeon RX 480 8GBStorage: 32 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:57
+Source: Fetched from Steam Web API

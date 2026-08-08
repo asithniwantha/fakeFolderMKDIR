@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: System Shock
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7/8.1/10 (64-bit only)Processor: Intel Core i5-2400/AMD FX-8320 or betterMemory: 4 GB RAMGraphics: NVIDIA GTX 670 2GB/AMD Radeon HD 7870 2GB or betterDirectX: Version 11Storage: 10 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS *: Windows 7/8.1/10 (64-bit only)Processor: Intel Core i7-3770/AMD FX-8350 or betterMemory: 8 GB RAMGraphics: NVIDIA GTX 970 4GB/AMD Radeon R9 290 4GB or betterDirectX: Version 11Storage: 10 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:49
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Broken Age
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows XP Service Pack 3Processor: 1.7 GHz Dual CoreMemory: 2 GB RAMGraphics: NVIDIA GeForce GTX 260, ATI Radeon 4870 HD, Intel HD 3000, or equivalent card with at least 512 MB VRAMDirectX: Version 9.0Storage: 2500 MB available spaceSound Card: DirectX Compatible Sound CardAdditional Notes: Must have OpenGL 3 with GLSL version 1.3
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 7Processor: Intel Core 2 Duo at 2.2 GHz, AMD Athlon 64 2.2GhzMemory: 3 GB RAMGraphics: NVIDIA GeForce GTX 460, AMD Radeon HD 6850DirectX: Version 11Storage: 2500 MB available spaceSound Card: DirectX Compatible Sound CardAdditional Notes: Must have OpenGL 3 with GLSL version 1.3. Some users may need to disable Steam overlay.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:16:38
+Source: Fetched from Steam Web API

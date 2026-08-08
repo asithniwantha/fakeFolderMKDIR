@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Minecraft
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 10 (November 2019 Update or higher), 8 or 7 (64-bit with the latest updates; some functionality not supported on Windows 7 and 8)Processor: Core i5 2.8GHz or equivalentMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 660 or AMD Radeon HD 7870 or equivalent DX11 GPUDirectX: Version 11Storage: 6 GB available spaceAdditional Notes: Performance increases with higher-end systems. Not supported on Windows 10S.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS *: Windows 10 (November 2019 Update or higher), 8 or 7 (64-bit with the latest updates; some functionality not supported on Windows 7 and 8)Processor: Core i5 2.8GHz or equivalentMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 660 or AMD Radeon HD 7870 or equivalent DX11 GPUDirectX: Version 11Storage: 6 GB available spaceAdditional Notes: Performance increases with higher-end systems. Not supported on Windows 10S.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:01
+Source: Fetched from Steam Web API

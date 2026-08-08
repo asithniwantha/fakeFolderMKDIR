@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Flight Simulator 2024
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10Processor: AMD Ryzen 5 2600X or Intel Core i7-6800KMemory: 16 GB RAMGraphics: Radeon RX 5700 or GeForce GTX 970DirectX: Version 12Network: Broadband Internet connectionStorage: 50 GB available spaceAdditional Notes: Network Speed of 10 Mbps Bandwidth
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10Processor: AMD Ryzen 7 2700X or Intel Core i7-10700KMemory: 32 GB RAMGraphics: Radeon RX 5700 XT or GeForce RTX 2080DirectX: Version 12Network: Broadband Internet connectionStorage: 50 GB available spaceAdditional Notes: Network Speed of 50 Mbps Bandwidth
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:49
+Source: Fetched from Steam Web API

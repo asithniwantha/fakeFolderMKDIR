@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Interstellar Rift
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7 or higherProcessor: Intel Dual Core 2GHzMemory: 4096 MB RAMGraphics: NVIDIA GeForce GTX 560 or higherNetwork: Broadband Internet connectionStorage: 10 GB available spaceAdditional Notes: OpenGL 4.6 or higher required
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS *: Windows 7 or higherProcessor: AMD or Intel Quad CoreMemory: 8192 MB RAMGraphics: NVIDIA GeForce GTX 970 or higherNetwork: Broadband Internet connectionStorage: 10 GB available spaceAdditional Notes: OpenGL 4.6 or higher required
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:04
+Source: Fetched from Steam Web API

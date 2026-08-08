@@ -1,0 +1,25 @@
+SYSTEM REQUIREMENTS FOR: Wasteland 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Intel Core i5 / AMD Ryzen 5 (or better)
+GPU: NVIDIA GTX 960 / AMD Radeon R9 280X (or better)
+RAM: 8 GB
+Storage: 50-100 GB SSD space recommended
+OS: Windows 10 64-bit or later
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Intel Core i7 / AMD Ryzen 7 (or better)
+GPU: NVIDIA RTX 2080 / AMD Radeon RX 5700 XT (or better)
+RAM: 16 GB
+Storage: SSD with 100+ GB available space
+OS: Windows 10/11 64-bit
+
+Note: Actual requirements may vary. Check the game's official website for accurate specs.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:10:49
+Note: These are general requirements. Visit the game's Steam page or official
+website for the most accurate and up-to-date system requirements.

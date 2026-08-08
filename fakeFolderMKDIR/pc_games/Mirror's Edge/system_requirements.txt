@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Mirror's Edge
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Supported OS: Microsoft Windows® XP SP2 or Vista                    					Processor: 3.0 GHz or faster                    					Memory: 1 GB RAM or more                    					Graphics: DirectX® 9.0c  compatible video card, Shader Model 3.0 required. Video card must have 256 MB, NVIDIA GeForce 6800 or better                    					Hard Drive: 8 GB free space 					Sound: DirectX® 9.0c compatible sound card INTERNET CONNECTION, ONLINE AUTHENTICATION AND ACCEPTANCE OF END USER LICENSE AGREEMENT REQUIRED TO PLAY. TO ACCESS ONLINE FEATURES, YOU MUST REGISTER ONLINE. ONLY ONE REGISTRATION IS AVAILABLE PER GAME. EA ONLINE TERMS &amp; CONDITIONS AND FEATURE UPDATES CAN BE FOUND AT . YOU MUST BE 13+ TO REGISTER WITH EA ONLINE.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:07
+Source: Fetched from Steam Web API

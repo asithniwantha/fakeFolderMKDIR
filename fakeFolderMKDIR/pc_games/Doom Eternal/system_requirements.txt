@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Doom Eternal
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: 64-bit Windows 7 / 64-Bit Windows 10Processor: Intel Core i5 @ 3.3 GHz or better, or AMD Ryzen 3 @ 3.1 GHz or betterMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 1050Ti (4GB), GTX 1060 (3GB), GTX 1650 (4GB) or AMD Radeon R9 280(3GB), AMD Radeon R9 290 (4GB), RX 470 (4GB)Network: Broadband Internet connectionStorage: 80 GB available spaceAdditional Notes: ( 1080p / 60 FPS / Low Quality Settings )
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: 64-bit Windows 10Processor: Intel Core i7-6700K or better, or AMD Ryzen 7 1800X or betterMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 1060 (6GB), NVIDIA GeForce 970 (4GB), AMD RX 480 (8GB)Network: Broadband Internet connectionStorage: 80 GB available spaceAdditional Notes: ( 1080p / 60 FPS / High Quality Settings ) - *On NVIDIA GTX 970 cards Texture Quality should be set to Medium
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:00
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Legend Tomb Raider
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+GPU: Minimum: Microsoft Windows 2000, XP, Pentium 3 1.0Ghz or Athlon XP Equivalent, 256MB RAM, 100% DirectX 9.0c -compatible 64 MB 3D Accelerated Card with TnL (GeForce 3Ti / Radeon 9 series), Microsoft Windows 2000/XP compatible sound card (100% DirectX 9.0c -compatible), 9.9GB free disk space, 100% Windows 2000/XP compatible mouse and keyboard					Recommended: Pentium 4 2.0Ghz or Athlon XP Equivalent, 512MB RAM, 100% DirectX 9.0c -compatible 256MB 3D Accelerated Card (Nvidia GeForce 5900 / Ati 9800XT), Microsoft Windows 2000/XP compatible sound card (100% DirectX 9.0c -compatible), 9.9GB free disk space					Optimal: Pentium 4 3.0Ghz or Athlon XP/64bit Equivalent, 1GB RAM, 100% DirectX 9.0c -compatible 512 MB 3D Accelerated Card (Nvidia GeForce 7800 / Ati X-1800)
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:34
+Source: Fetched from Steam Web API

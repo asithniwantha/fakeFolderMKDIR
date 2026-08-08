@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Creatures
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10Processor: Intel Core i3/AMD Ryzen 3 or equivalentMemory: 4 GB RAMGraphics: OpenGL 3.3 compatible GPUDirectX: Version 12Storage: 500 MB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10Processor: Intel Core i3/AMD Ryzen 3 or equivalentMemory: 8 GB RAMGraphics: OpenGL 3.3 compatible GPUDirectX: Version 12Network: Broadband Internet connectionStorage: 500 MB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:07
+Source: Fetched from Steam Web API

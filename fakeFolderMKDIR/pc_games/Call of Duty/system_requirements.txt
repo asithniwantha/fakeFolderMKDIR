@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Call of Duty
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows® 10 64 Bit (latest update)Processor: AMD Ryzen™ 5 1400 or Intel® Core™ i5-6600Memory: 8 GB RAMGraphics: AMD Radeon™ RX 470, NVIDIA® GeForce® GTX 970 / 1060 or Intel® Arc™ A580DirectX: Version 12Network: Broadband Internet connectionAdditional Notes: SSD with 161 GB available space at launch
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows® 11 64 Bit (latest update)Processor: AMD Ryzen™ 5 1600X or Intel® Core™ i7-6700KMemory: 12 GB RAMGraphics: AMD Radeon™ RX 6600XT, NVIDIA® GeForce® RTX 3060 or Intel® Arc™ B580DirectX: Version 12Network: Broadband Internet connectionAdditional Notes: SSD with 161 GB available space at launch
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:16:41
+Source: Fetched from Steam Web API

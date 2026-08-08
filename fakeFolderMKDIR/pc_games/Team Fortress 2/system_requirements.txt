@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Team Fortress 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows® 7 (32/64-bit)/Vista/XPProcessor: 1.7 GHz Processor or betterMemory: 512 MB RAMDirectX: Version 8.1Network: Broadband Internet connectionStorage: 15 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows® 7 (32/64-bit)Processor: Pentium 4 processor (3.0GHz, or better)Memory: 1 GB RAMDirectX: Version 9.0cNetwork: Broadband Internet connectionStorage: 15 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:01
+Source: Fetched from Steam Web API

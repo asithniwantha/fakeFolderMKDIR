@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Assetto Corsa Competizione
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 x64 20H2 (October 2020 Update)Processor: Intel Core i5-4460 or AMD FX-8120Memory: 4 GB RAMGraphics: GeForce GTX 750 4GB, Radeon RX 460 4GBDirectX: Version 11Storage: 50 GB available spaceSound Card: IntegratedVR Support: SteamVR or Oculus PC. Keyboard or gamepad required
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 x64 - 21H2Processor: Intel Core i5-8600K or AMD Ryzen 5 2600XMemory: 16 GB RAMGraphics: GeForce GTX 1070 8 GB, Radeon RX 580 8GBDirectX: Version 11Storage: 50 GB available spaceSound Card: Integrated
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:16:01
+Source: Fetched from Steam Web API

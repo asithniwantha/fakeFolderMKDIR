@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Diablo IV
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: 64-bit Windows® 10 version 1909 or newerProcessor: Intel® Core™ i5-2500K or AMD™ FX-8350Memory: 8 GB RAMGraphics: NVIDIA® GeForce® GTX 660 or Intel® Arc™ A380 or AMD Radeon™ R9 280DirectX: Version 12Network: Broadband Internet connectionStorage: 90 GB available spaceAdditional Notes: *1080p native resolution / 720p render resolution, low graphics settings, 30fps, SSD Required
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: 64-bit Windows® 10 version 1909 or newerProcessor: Intel® Core™ i5-4670K or AMD Ryzen™ 1300XMemory: 16 GB RAMGraphics: NVIDIA® GeForce® GTX 970 or Intel® Arc™ A750 or AMD Radeon™ RX 470DirectX: Version 12Network: Broadband Internet connectionStorage: 90 GB available spaceAdditional Notes: *1080p resolution, medium graphics settings, 60fps, SSD Required
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:53
+Source: Fetched from Steam Web API

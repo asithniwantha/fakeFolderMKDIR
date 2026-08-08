@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Assassins Creed Mirage
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10/11Processor: INTEL® Core™ i7-4790K (INTEL® Core™ i5-8400 for Intel® ARC™ with Rebar) / Ryzen™ 5 1600Memory: 8 GB RAMGraphics: Intel® Arc™ A380 (6 GB) / NVIDIA® GeForce® GTX 1060 (6 GB) / AMD Radeon™ RX 570 (4 GB)DirectX: Version 12Storage: 40 GB available spaceVR Support: N/AAdditional Notes: Video Preset: Low / Target: 30 fps
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10/11Processor: Intel® Core™ i7-8700K / AMD Ryzen™ 5 3600Memory: 16 GB RAMGraphics: Intel® Arc™ A750 (8 GB) / NVIDIA® GeForce® GTX 1660 Ti (6 GB) / AMD Radeon™ RX 5600 XT (6 GB)DirectX: Version 12Storage: 40 GB available spaceVR Support: N/AAdditional Notes: Video Preset: High / Target: 60 fps
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:15:50
+Source: Fetched from Steam Web API

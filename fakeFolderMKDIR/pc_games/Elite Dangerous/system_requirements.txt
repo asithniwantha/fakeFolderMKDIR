@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Elite Dangerous
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 8/10 64-bitProcessor: Quad Core CPU (4 x 2Ghz)Memory: 6 GB RAMGraphics: Nvidia GTX 470/AMD R7 240DirectX: Version 11Network: Broadband Internet connectionStorage: 25 GB available spaceVR Support: SteamVR. Keyboard or gamepad required
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 8/10 64-bitProcessor: Intel Core i7-3770K Quad Core CPU or better / AMD FX 4350 Quad Core CPU or betterMemory: 8 GB RAMGraphics: Nvidia GTX 770 / AMD Radeon R9 280XDirectX: Version 11Network: Broadband Internet connectionStorage: 25 GB available spaceAdditional Notes: Supports SteamVR, Oculus Rift and TrackIR
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:16
+Source: Fetched from Steam Web API

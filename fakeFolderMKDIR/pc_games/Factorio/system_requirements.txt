@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Factorio
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows 11, 10Processor: Quad core 3Ghz+Memory: 8 GB RAMGraphics: DirectX 11 capable GPU with 1GB VRAM - GeForce GTX 750 Ti, Radeon R7 360 or Intel UHD Graphics 730DirectX: Version 11Storage: 5 GB available spaceAdditional Notes: Normal sprite resolution, Low quality compression, 1080p resolution
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 11, 10Processor: Quad core 4Ghz+ from 2020 or newerMemory: 16 GB RAMGraphics: DirectX 11 capable GPU with 4 GB VRAM - GeForce GTX 1050 Ti, Radeon RX 570, Intel ArcDirectX: Version 11Storage: 10 GB available spaceAdditional Notes: High sprite resolution, High quality compression
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:29
+Source: Fetched from Steam Web API

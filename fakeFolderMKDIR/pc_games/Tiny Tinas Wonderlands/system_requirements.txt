@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Tiny Tinas Wonderlands
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 (latest service pack)Processor: AMD FX-8350 (Intel i5-3570)Memory: 6 GB RAMGraphics: AMD Radeon RX470 (NVIDIA GeForce GTX 960 4GB)Network: Broadband Internet connectionStorage: 75 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 (latest service pack)Processor: AMD Ryzen™ 5 2600 (Intel i7-4770)Memory: 16 GB RAMGraphics: AMD Radeon™ RX 590 8GB (NVIDIA GeForce GTX 1060 6GB)Network: Broadband Internet connectionStorage: 75 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:37
+Source: Fetched from Steam Web API

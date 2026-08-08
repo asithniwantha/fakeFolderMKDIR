@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Tropico 6
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7 64-bitProcessor: AMD or Intel, 3 GHz (AMD A10 7850K, Intel i3-2000)Memory: 8 GB RAMGraphics: AMD/NVIDIA dedicated GPU, 2GB dedicated VRAM (Radeon HD 7870, Geforce GTX 750)DirectX: Version 11Storage: 16 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: AMD or Intel, 3.3 GHz (AMD FX 8300, Intel i5 3000)Memory: 16 GB RAMGraphics: AMD/NVIDIA dedicated GPU, 4GB dedicated VRAM (Radeon R9 380, Geforce GTX 960)
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:45
+Source: Fetched from Steam Web API

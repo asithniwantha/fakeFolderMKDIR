@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Rodina
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Vista, 7, or 8Processor: Dual CoreMemory: 2 GB RAMGraphics: Dedicated GPU with 512MB MemoryDirectX: Version 11Storage: 300 MB available spaceAdditional Notes: Some users have reported problems with Intel cards. Please try the demo before buying Rodina!
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Vista, 7, or 8Processor: Quad CoreMemory: 2 GB RAMGraphics: Dedicated GPU with 1024MB MemoryDirectX: Version 11Storage: 300 MB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:39
+Source: Fetched from Steam Web API

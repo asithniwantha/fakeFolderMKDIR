@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Deaths Door
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows 10 x64Processor: Intel Core i5-8250U (4 * 1800) or equivalent; AMD Phenom II X4 965 (4 * 3400) or equivalentMemory: 8 GB RAMGraphics: GeForce MX 150 ( 2048 MB); Radeon R7 260X (2048 MB)Storage: 5 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 10 x64Processor: Intel Core i5-4670K (4 * 3400) or equivalent; AMD FX-8350 (8 * 4700) or equivalentMemory: 8 GB RAMGraphics: GeForce GTX 1050 ( 2048 MB); Radeon RX 580 (8192 MB)Storage: 20 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:43
+Source: Fetched from Steam Web API

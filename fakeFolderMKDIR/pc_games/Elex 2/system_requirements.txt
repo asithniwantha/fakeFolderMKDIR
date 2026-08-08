@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Elex 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10, 64 BitProcessor: AMD Ryzen 3 3100 / Intel Core i5-7400Memory: 12 GB RAMGraphics: Radeon RX 5600 XT / Geforce GTX 1060DirectX: Version 11Storage: 90 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10, 64 BitProcessor: AMD Ryzen 7 2700 / Intel Core i5-9500FMemory: 16 GB RAMGraphics: Radeon RX 5700 XT / Geforce RTX 2060DirectX: Version 11Storage: 90 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:15
+Source: Fetched from Steam Web API

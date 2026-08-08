@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Farcry New Dawn
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows 10 (64bit versions only)Processor: Intel Core i5 2400 @ 3.1 GHz or AMD FX 6350 @ 3.9 GHzMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 670 (2GB) or AMD Radeon R9 270X (2GB) or betterStorage: 30 GB available spaceSound Card: DirectX 9.0c compatible sound card with latest driversAdditional Notes: PERIPHERALS: Windows-compatible keyboard, mouse, headset
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 10 (64bit versions only)Processor: Intel Core i7-4790 @ 3.6 GHz or AMD Ryzen 5 1600 @ 3.2 GHzMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 970 (4GB) or AMD Radeon R9 290X (4GB) or betterStorage: 30 GB available spaceSound Card: DirectX 9.0c compatible sound card with latest driversAdditional Notes: Windows-compatible keyboard, mouse, headset
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:43
+Source: Fetched from Steam Web API

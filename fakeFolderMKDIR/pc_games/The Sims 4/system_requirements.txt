@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: The Sims 4
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: 64 Bit Required. Windows 10Processor: 3.3 GHz Intel Core i3-3220 (2 cores, 4 threads), AMD Ryzen 3 1200 3.1 GHz (4 cores) or betterMemory: 4 GB RAMGraphics: 128 MB of Video RAM and support for Pixel Shader 3.0. Supported Video Cards: NVIDIA GeForce 6600 or better, ATI Radeon X1300 or better, Intel GMA X4500 or betterDirectX: Version 11Network: Broadband Internet connectionStorage: 26 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: 64 Bit Windows 10Processor: Intel core i5 (4 cores), AMD Ryzen 5 or betterMemory: 8 GB RAMGraphics: 1 GB of Video RAM, NVIDIA GTX 650, AMD Radeon HD 7750, or betterDirectX: Version 11Network: Broadband Internet connectionStorage: 51 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:26
+Source: Fetched from Steam Web API

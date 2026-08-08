@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Archeage
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: Intel Core i5-12400/AMD Ryzen 5 5600Memory: 16 GB RAMGraphics: NVIDIA GeForce RTX 3060 TiStorage: 100 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 11 64-bitProcessor: Intel Core i7-12700/AMd Ryzen 7 5700XMemory: 32 GB RAMGraphics: NVIDIA GeForce RTX 4060 TiStorage: 100 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:15:36
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Q.U.B.E. 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7 64-bitProcessor: Quad-core Intel or AMD processor, 2.5 GHzMemory: 4 GB RAMGraphics: NVIDIA GeForce GTX 470 or AMD Radeon 6870 HD series cardDirectX: Version 11Storage: 4 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 7 64-bit or laterProcessor: Quad-core Intel or AMD processor, 2.5 GHz or fasterMemory: 8 GB RAMGraphics: GeForce 2060 or greaterDirectX: Version 11Storage: 4 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:20
+Source: Fetched from Steam Web API

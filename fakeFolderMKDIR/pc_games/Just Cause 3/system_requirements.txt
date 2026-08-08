@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Just Cause 3
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Vista SP2 / Windows 7.1 SP1 / Windows 8.1 (64-bit Operating System Required)Processor: Intel Core i5-2500k, 3.3GHz / AMD Phenom II X6 1075T 3GHzMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 670 (2GB) / AMD Radeon HD 7870 (2GB)Storage: 54 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Vista SP2 / Windows 7.1 SP1 / Windows 8.1 (64-bit Operating System Required)Processor: Intel Core i7-3770, 3.4 GHz / AMD FX-8350, 4.0 GHzMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 780 (3GB) / AMD R9 290 (4GB)Storage: 54 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:17
+Source: Fetched from Steam Web API

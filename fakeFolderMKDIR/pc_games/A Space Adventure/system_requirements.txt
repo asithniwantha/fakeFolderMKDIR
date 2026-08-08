@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: A Space Adventure
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows 10Processor: Intel i5-1235ULMemory: 6 GB RAMGraphics: Nvidia RTX 1060Storage: 3 GB available spaceAdditional Notes: *Subject to change
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 10Processor: Intel i7-14701EMemory: 8 GB RAMGraphics: Nvidia RTX 3070 Storage: 3 GB available spaceAdditional Notes: *Subject to change
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:15:21
+Source: Fetched from Steam Web API

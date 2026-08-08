@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Portal 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7 / Vista / XPProcessor: 3.0 GHz P4, Dual Core 2.0 (or higher) or AMD64X2 (or higher)Memory: 2 GB RAMGraphics: Video card must be 128 MB or more and with support for Pixel Shader 2.0b (ATI Radeon X800 or higher / NVIDIA GeForce 7600 or higher / Intel HD Graphics 2000 or higher).DirectX: Version 9.0cStorage: 8 GB available spaceSound Card: DirectX 9.0c compatible
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:09
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Tropico 5
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows Vista SP2, Windows 7, Windows 8Processor: 2 GHz Dual Core CPUMemory: 4 GB RAMGraphics: GeForce 400 or higher, AMD Radeon HD 4000 or higher, Intel HD 4000 or higher (DirectX 11 hardware support required)DirectX: Version 11Storage: 4 GB available spaceSound Card: DirectX compatible
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows  7 (64 bit), Windows 8 (64 bit)Processor: 2.5 GHz Quad Core CPUMemory: 8 GB RAMGraphics: GeForce 500 or higher, AMD Radeon HD 5000 or higherDirectX: Version 11Network: Broadband Internet connectionStorage: 4 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:43
+Source: Fetched from Steam Web API

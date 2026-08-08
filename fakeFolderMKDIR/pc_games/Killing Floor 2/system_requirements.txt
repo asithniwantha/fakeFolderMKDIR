@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Killing Floor 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Win7 64-bit, Win8/8.1 64-bitProcessor: Core 2 Duo E8200 2.66GHz or Phenom II X2 545Memory: 3 GB RAMGraphics: GeForce GTS 250 or Radeon HD 4830DirectX: Version 10Network: Broadband Internet connectionStorage: 80 GB available spaceAdditional Notes: UNSUPPORTED HARDWARE: IntelHD Integrated Graphics Chips, 32-bit Operating Systems, NVIDIA ® FleX features require a GeForce ® GTX™ 770  or higher (GeForce ® GTX™ 980 recommended)
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: Core 2 Quad Q9550 2.83GHz or Phenom II X4 955Memory: 4 GB RAMGraphics: GeForce GTX 560 or Radeon HD 6950DirectX: Version 11Network: Broadband Internet connectionStorage: 100 GB available spaceAdditional Notes: NVIDIA ® FleX features require a GeForce ® GTX™ 770  or higher (GeForce ® GTX™ 980 recommended)
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:23
+Source: Fetched from Steam Web API

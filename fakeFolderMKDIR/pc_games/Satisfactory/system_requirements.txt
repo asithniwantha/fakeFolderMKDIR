@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Satisfactory
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 or later (64-Bit)Processor: i5-3570 3.4 GHz 4 CoreMemory: 8 GB RAMGraphics: Nvidia GTX 1650/GTX 1050-ti, or AMD RX 470/RX 570, or equivalent performance &amp; VRAMStorage: 20 GB available spaceAdditional Notes: Internet connection required for multiplayer.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 11 or later (64-Bit)Processor: Ryzen 5 5600X﻿ or ﻿i5-12400 ﻿or equivalent performance, 6 physical cores minimumMemory: 16 GB RAMGraphics: Nvidia RTX 2070﻿ or RX 5700, or equivalent performance &amp; VRAMStorage: 20 GB available spaceAdditional Notes: Internet connection required for multiplayer.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:53
+Source: Fetched from Steam Web API

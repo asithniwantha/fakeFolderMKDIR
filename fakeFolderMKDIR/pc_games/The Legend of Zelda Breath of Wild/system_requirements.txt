@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: The Legend of Zelda Breath of Wild
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:17
+Source: Fetched from Steam Web API

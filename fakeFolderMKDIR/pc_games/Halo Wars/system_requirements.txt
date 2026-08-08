@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Halo Wars
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7 SP1 64-bit or higherProcessor: Intel Core i3 or EquivalentMemory: 4 GB RAMGraphics: Intel HD Graphics 4200 NVIDIA GeForce GT 740M AMD Radeon R5 M240DirectX: Version 11Network: Broadband Internet connectionStorage: 12 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: Intel Core i5 or EquivalentMemory: 8 GB RAMGraphics: NVIDIA GTX 560, 650, 750 AMD HD 5850, 6870, 7790DirectX: Version 11Network: Broadband Internet connectionStorage: 12 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:44
+Source: Fetched from Steam Web API

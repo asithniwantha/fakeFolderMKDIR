@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Resident Evil 4 Remake
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 (64 bit)Processor: AMD Ryzen 3 1200 / Intel Core i5-7500Memory: 8 GB RAMGraphics: AMD Radeon RX 560 with 4GB VRAM / NVIDIA GeForce GTX 1050 Ti with 4GB VRAMDirectX: Version 12Network: Broadband Internet connectionAdditional Notes: Estimated performance (when set to Prioritize Performance): 1080p/45fps. ・Framerate might drop in graphics-intensive scenes. ・AMD Radeon RX 6700 XT or NVIDIA GeForce RTX 2060 required to support ray tracing.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 (64 bit)/Windows 11 (64 bit)Processor: AMD Ryzen 5 3600 / Intel Core i7 8700Memory: 16 GB RAMGraphics: AMD Radeon RX 5700 / NVIDIA GeForce GTX 1070DirectX: Version 12Network: Broadband Internet connectionAdditional Notes: Estimated performance: 1080p/60fps ・Framerate might drop in graphics-intensive scenes. ・AMD Radeon RX 6700 XT or NVIDIA GeForce RTX 2070 required to support ray tracing.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:31
+Source: Fetched from Steam Web API

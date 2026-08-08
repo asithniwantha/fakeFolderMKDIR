@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Soma
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: 64-bit Windows VistaProcessor: Core i3 / AMD A6 2.4GhzMemory: 4 GB RAMGraphics: NVIDIA GeForce GTX 260 / AMD Radeon HD 5750. OpenGL 3.3Storage: 25 GB available spaceAdditional Notes: Integrated Intel graphics are not supported. They should work (Intel HD 4000-series or better), but with issues.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: 64-bit Windows 7Processor: Core i5 / AMD FX 2.4GhzMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 480 / AMD Radeon HD 5970. OpenGL 3.3Storage: 25 GB available spaceAdditional Notes: Integrated Intel graphics are not supported. They should work (Intel HD 4000-series or better), but with issues.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:14
+Source: Fetched from Steam Web API

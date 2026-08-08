@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Gears 5
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7 SP1 64-bit, Windows 10 64-bitProcessor: AMD FX-6000 series | Intel i3 SkylakeMemory: 8 GB RAMGraphics: AMD Radeon R9 280 | NVIDIA GeForce GTX 760 (Windows 10) | NVIDIA GeForce GTX 1050 (Windows 7)DirectX: Version 12Network: Broadband Internet connectionStorage: 80 GB available spaceSound Card: DirectX compatible
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: AMD Ryzen 3 | Intel i5 SkylakeMemory: 8 GB RAMGraphics: AMD Radeon RX 570 | NVIDIA GeForce GTX 970 (Windows 10) | NVIDIA GeForce GTX 1660ti (Windows 7)DirectX: Version 12Network: Broadband Internet connectionStorage: 80 GB available spaceSound Card: DirectX compatible
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:12
+Source: Fetched from Steam Web API

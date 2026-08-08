@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Project Cars 3
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:15
+Source: Fetched from Steam Web API

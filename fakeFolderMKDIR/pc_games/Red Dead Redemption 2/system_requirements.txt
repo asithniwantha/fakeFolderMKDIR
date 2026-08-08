@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Red Dead Redemption 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 - 64-bitProcessor: Intel® Core™ i5-2500K / AMD FX-6300Memory: 8 GB RAMGraphics: Nvidia GeForce GTX 770 2GB / AMD Radeon R9 280 3GBNetwork: Broadband Internet connectionStorage: 150 GB available spaceSound Card: Direct X Compatible
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 - 64-bitProcessor: Intel® Core™ i7-4770K / AMD Ryzen 5 1500XMemory: 12 GB RAMGraphics: Nvidia GeForce GTX 1060 6GB / AMD Radeon RX 480 4GBNetwork: Broadband Internet connectionStorage: 150 GB available spaceSound Card: Direct X Compatible
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:30
+Source: Fetched from Steam Web API

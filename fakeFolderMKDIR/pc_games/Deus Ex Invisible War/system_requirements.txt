@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Deus Ex Invisible War
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: MINIMUM:Pentium IV, 1.3GHz (Or AMD Athlon XP equivalent) processor100% DirectX 9 32MB 3D Accelerated video card with Pixel Shader v1.1 Capability256 MB System RAM100% DirectX 9 Compatible Sound Card2GB free uncompressed hard drive space (additional space may be necessary for saved games)
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: RECOMMENDED:Pentium IV, 1.5 Ghz (or AMD Athlon XPequivalent) or greater processor512 MB System RAM100% DirectX 9 128MB 3D Graphics Card2GB of Hard Drive SpaceSupported Video Chipsets:nVidia GeForce 3Ti/4Ti/FX ATI Radeon 8500/9xxx or higher.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:50
+Source: Fetched from Steam Web API

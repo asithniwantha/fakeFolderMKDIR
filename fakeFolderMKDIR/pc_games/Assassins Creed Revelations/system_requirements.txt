@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Assassins Creed Revelations
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:							OS *: Windows® XP SP3 / Windows Vista® SP2								Processor: Intel® Core™2 Duo E4400 @ 2.0 GHz or AMD Athlon™ 64 X2 4000+ @ 2.1GHz								Memory: 1.5 GB Windows® XP / 2 GB Windows Vista, 7								Graphics: 256 MB DirectX® 9.0–compliant card with Shader Model 4.0 or higher (see supported list)*								DirectX®: DirectX® June2010 or newer								Hard Drive: 12 GB								Sound: DirectX 9.0–compliant sound card								Peripherals: Keyboard, mouse, optional controller								Internet: Temporary broadband connection required for one-time product registration at first launch, permanent broadband connection required for multi-player.								*This product does not support Windows® 98/ME/2000/NTSupported Video Cards at Time of Release:								AMD Radeon™ HD2600XT or better/3000/4000/5000/6000 desktop series								NVIDIA® GeForce® 8600GTS or better/9/GT200/GT400/GT500 desktop series								Laptop versions of these cards may work but are NOT officially supported. These chipsets are the only ones that will run this game. For the most up-to-date minimum requirement listings, please visit the FAQ for this game on our support website at .
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:							OS *: Windows® XP SP3 / Windows Vista® SP2								Processor:  Intel® Core™2 Duo E6700 @ 2.6 GHz or AMD Athlon™ 64 X2 6000+ @ 3.0 GHz or better								Memory: 2 GB Windows® XP / Windows Vista® / Windows® 7								Graphics: 512 MB DirectX® 9.0–compliant card with Shader Model 5.0 or higher (see supported list)*								DirectX®: DirectX® June2010 or newer 								Hard Drive: 12 GB								Sound: Surround Sound 5.1 capable sound card								Peripherals: Keyboard, mouse, joystick optional (Xbox 360® Controller for Windows recommended)								Internet: Temporary broadband connection required for one-time product registration at first launch, permanent broadband connection required for multi-player.								*This product does not support Windows® 98/ME/2000/NTSupported Video Cards at Time of Release:								AMD Radeon™ HD2600XT or better/3000/4000/5000/6000 desktop series								NVIDIA® GeForce® 8600GTS or better/9/GT200/GT400/GT500 desktop series								Laptop versions of these cards may work but are NOT officially supported. These chipsets are the only ones that will run this game. For the most up-to-date minimum requirement listings, please visit the FAQ for this game on our support website at .
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:15:54
+Source: Fetched from Steam Web API

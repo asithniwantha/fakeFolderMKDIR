@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: The Walking Dead
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7 64Bit Service Pack 1Processor: Intel Core 2 Duo 2.8GHzMemory: 3 GB RAMGraphics: Nvidia GeForce GTS 450 2GBDirectX: Version 11Storage: 45 GB available spaceSound Card: DirectX 11 sound device
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS *: Windows 7 64Bit Service Pack 1Processor: Intel Core i5-2500KMemory: 3 GB RAMGraphics: Nvidia GeForce GTX 960DirectX: Version 11Storage: 45 GB available spaceSound Card: DirectX 11 sound device
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:29
+Source: Fetched from Steam Web API

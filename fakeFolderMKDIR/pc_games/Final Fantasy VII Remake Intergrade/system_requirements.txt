@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Final Fantasy VII Remake Intergrade
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows® 10 64-bit (ver. 2004 or later)Processor: AMD FX-8350 / Intel® Core™ i5-3330Memory: 8 GB RAMGraphics: AMD Radeon™ RX 480 / NVIDIA® GeForce® GTX 780 / 3GB VRAM requiredDirectX: Version 12Storage: 100 GB available spaceAdditional Notes: Assuming a Resolution of 1920 x 1080
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows® 10 64-bit (ver. 2004 or later)Processor: AMD Ryzen™ 3 3100 / Intel® Core™ i7-3770Memory: 12 GB RAMGraphics: AMD Radeon™ RX 5700 / NVIDIA® GeForce® GTX 1080 / 8GB VRAM requiredDirectX: Version 12Storage: 100 GB available spaceAdditional Notes: Assuming a Resolution of 2560 x 1440 (This title supports max resolution of 3840 x 2160)
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:44
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Albion Online
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 or 11 (64-bit)Processor: Intel/AMD CPU with SSE2Memory: 4 GB RAMGraphics: Graphics card with DirectX 10 support or betterDirectX: Version 10Network: Broadband Internet connectionStorage: 2 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 or 11 (64-bit)Processor: Intel/AMD CPU with SSE2Memory: 8 GB RAMGraphics: Graphics card with DirectX 10 support or betterNetwork: Broadband Internet connectionAdditional Notes: For an optimal play experience, we strongly recommend installing Albion Online onto an SSD.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:15:26
+Source: Fetched from Steam Web API

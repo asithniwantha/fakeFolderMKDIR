@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Persona 4 Golden
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 8.1Processor: Intel Core 2 Duo E8400 | AMD Phenom II X2 550Memory: 2 GB RAMGraphics: Nvidia GeForce GTS 450 | AMD Radeon HD 5770DirectX: Version 11Storage: 14 GB available spaceAdditional Notes: Microsoft no longer supports Windows 10 or older versions.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10Processor: Intel Core i5-650 | AMD Phenom X4 940Memory: 4 GB RAMGraphics: Nvidia GeForce GTX 460 | AMD Radeon HD 6870DirectX: Version 11Storage: 14 GB available spaceAdditional Notes: Microsoft no longer supports Windows 10 or older versions.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:02
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Fran Bow
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: 7+Processor: 1.7 GHz Dual CoreMemory: 2 GB RAMGraphics: NVIDIA GeForce GTX 260, ATI Radeon 4870 HD, or equivalent card with at least 512 MB VRAMStorage: 5 GB available spaceSound Card: DirectX Compatible Sound Card
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:06
+Source: Fetched from Steam Web API

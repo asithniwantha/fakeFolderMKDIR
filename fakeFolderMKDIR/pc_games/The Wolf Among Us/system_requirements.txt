@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: The Wolf Among Us
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows XP Service Pack 3Processor: Core 2 Duo 2GHz or equivalentMemory: 3 GB RAMGraphics: ATI or NVidia card w/ 512 MB RAMDirectX: Version 9.0cStorage: 2 GB available spaceSound Card: Direct X 9.0c sound deviceAdditional Notes: Not recommended for Intel integrated graphics
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 7Processor: Core 2 Duo 2.3 Ghz or equivalentMemory: 4 GB RAMGraphics: ATI or NVidia card w/ 1024 MB RAMDirectX: Version 9.0cStorage: 2 GB available spaceSound Card: Direct X 9.0c sound deviceAdditional Notes: Not recommended for Intel integrated graphics
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:34
+Source: Fetched from Steam Web API

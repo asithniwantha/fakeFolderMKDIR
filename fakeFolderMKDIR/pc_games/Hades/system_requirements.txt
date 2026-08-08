@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Hades
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: Dual Core 2.4 GHzMemory: 8 GB RAMGraphics: GeForce GTX 950, Radeon R7 360, or Intel HD Graphics 630Storage: 11 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: Quad Core 2.4ghzMemory: 16 GB RAMGraphics: GeForce RTX 2060, Radeon RX 5600 XT, or Intel Arc A580Storage: 11 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:32
+Source: Fetched from Steam Web API

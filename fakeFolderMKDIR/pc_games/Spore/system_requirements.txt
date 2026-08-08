@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Spore
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Supported OS: Microsoft Windows® XP with Service Pack 1 and Vista					Processor: 2.0 GHz Intel Pentium® 4 or equivalent					Memory: 512 MB RAM (768 MB RAM for Vista)					Graphics: 128 MB Video Card, with support for Pixel Shader 2.0					DirectX®: The latest version of DirectX 9.0c or higher					Hard Drive: At least 4 GB of hard drive space, with at least 1 GB additional space for creations For computers using built-in graphics chipsets under Windows, the game requires at least:					Intel Integrated Chipset, 945GM or above					2.6 GHz Pentium D CPU, or 1.8 GHz Core 2 Duo, or equivalent					768 MB RAM
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:26
+Source: Fetched from Steam Web API

@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: New World
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Processor: Memory: 12 GB RAMGraphics: Network: Broadband Internet connectionStorage: 30 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Processor: Memory: 16 GB RAMGraphics: Network: Broadband Internet connection
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:35
+Source: Fetched from Steam Web API

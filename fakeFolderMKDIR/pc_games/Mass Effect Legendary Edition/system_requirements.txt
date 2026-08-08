@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Mass Effect Legendary Edition
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: 64-bit Windows 10Processor: Intel Core i5 3570 or AMD FX-8350Memory: 8 GB RAMGraphics: GPU: NVIDIA GTX 760, AMD Radeon 7970 / R9280X GPU RAM: 2 GB Video MemoryDirectX: Version 11Storage: 120 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: 64-bit Windows 10Processor: Intel Core i7-7700 or AMD Ryzen 7 3700XMemory: 16 GB RAMGraphics: GPU: NVIDIA GTX 1070 / RTX 200, Radeon Vega 56, GPU RAM: 4 GB Video MemoryDirectX: Version 11Storage: 120 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:51
+Source: Fetched from Steam Web API

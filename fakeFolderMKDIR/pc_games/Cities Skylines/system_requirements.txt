@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Cities Skylines
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows® 10 Home 64 BitProcessor: Intel® Core™ i7-6700K | AMD® Ryzen™ 5 2600XMemory: 8 GB RAMGraphics: Nvidia® GeForce™ GTX 970 (4 GB)  | AMD® Radeon™ RX 480 (8 GB)Storage: 60 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows® 10 Home 64 Bit | Windows® 11Processor: Intel® Core™ i5-12600K | AMD® Ryzen™ 7 5800XMemory: 16 GB RAMGraphics: Nvidia® GeForce™ RTX 3080 (10 GB) | AMD® Radeon™ RX 6800 XT (16 GB)Storage: 60 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:16:45
+Source: Fetched from Steam Web API

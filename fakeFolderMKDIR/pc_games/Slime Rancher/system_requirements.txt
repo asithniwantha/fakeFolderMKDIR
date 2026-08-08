@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Slime Rancher
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7+Processor: 2.2GHz Dual CoreMemory: 4 GB RAMGraphics: 512MB VRAMDirectX: Version 11Storage: 1 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:09
+Source: Fetched from Steam Web API

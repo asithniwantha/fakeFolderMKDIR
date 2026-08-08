@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Crash Bandicoot
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7Processor: Intel Core i5-750 @ 2.67GHz | AMD Phenom II X4 965 @ 3.4GHzMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 660 2GB | AMD Radeon HD 7850 2GBDirectX: Version 9.0cStorage: 30 GB available spaceSound Card: DirectX 9.0c Compatible
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:03
+Source: Fetched from Steam Web API

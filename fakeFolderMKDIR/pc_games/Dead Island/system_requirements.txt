@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Dead Island
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10Processor: AMD FX-9590 / Intel Core i7-7700HQMemory: 10 GB RAMGraphics: Radeon R9 390X (8192 VRAM) / GeForce GTX 1060 (6144 VRAM)DirectX: Version 12Storage: 70 GB GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10Processor: Ryzen 5 5600X / Intel Core i9-9900kMemory: 10 GB RAMGraphics: Radeon RX 6800 XT (16384 VRAM) / GeForce RTX 2070 Super (8192 MB)DirectX: Version 12Storage: 70 GB GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:36
+Source: Fetched from Steam Web API

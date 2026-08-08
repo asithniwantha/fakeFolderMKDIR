@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Oxygen Not Included
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 version 21H1 or laterProcessor: Dual Core 2 GHzMemory: 8 GB RAMGraphics: Intel HD 4600 (AMD or NVIDIA equivalent)DirectX: Version 11Storage: 3 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 11Processor: Intel Core i7-8700K or equivalentMemory: 16 GB RAMGraphics: Dedicated graphic card with 2GB VRAMDirectX: Version 11Storage: 3 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:55
+Source: Fetched from Steam Web API

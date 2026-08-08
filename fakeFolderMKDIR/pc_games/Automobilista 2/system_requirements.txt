@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Automobilista 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 10 (+ specific versions of 7)Processor: 3.5 GHz Intel Core i5 3450 or AMD FX-8350Memory: 8 GB RAMGraphics: GTX680 or equivalentDirectX: Version 11Network: Broadband Internet connectionStorage: 120 GB available spaceSound Card: DirectX compatible sound cardVR Support: SteamVR or Oculus PC. Keyboard or gamepad required
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10Processor: Intel Core i7 8700K / AMD Ryzen7 2700XMemory: 16 GB RAMGraphics: NVidia GTX 1080Ti or equivalentDirectX: Version 11Network: Broadband Internet connectionStorage: 120 GB available spaceSound Card: DirectX compatible sound card
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:16:04
+Source: Fetched from Steam Web API

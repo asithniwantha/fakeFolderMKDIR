@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Baldurs Gate 3
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: Intel I5 4690 / AMD FX 8350 / Snapdragon X EliteMemory: 8 GB RAMGraphics: Nvidia GTX 970 / RX 480 / Intel Arc A380 / Qualcomm Adreno X1 (4GB+ of VRAM)DirectX: Version 11Storage: 150 GB available spaceAdditional Notes: SSD required
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: Intel i7 8700K / AMD r5 3600Memory: 16 GB RAMGraphics: Nvidia 2060 Super / RX 5700 XT / Intel Arc A580 (8GB+ of VRAM)DirectX: Version 11Storage: 150 GB available spaceAdditional Notes: SSD required
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:16:07
+Source: Fetched from Steam Web API

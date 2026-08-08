@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Monster Hunter Rise
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 （64-bit）Processor: Intel® Core™ i3-4130 or Core™ i5-3470 or AMD FX™-6100Memory: 8 GB RAMGraphics: NVIDIA® GeForce® GT 1030 (DDR4) or AMD Radeon™ RX 550DirectX: Version 12Network: Broadband Internet connectionStorage: 36 GB available spaceAdditional Notes: 1080p/30fps when graphics settings are set to &quot;Low&quot;.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 （64-bit）Processor: Intel® Core™ i5-4460 or AMD FX™-8300Memory: 8 GB RAMGraphics: NVIDIA® GeForce® GTX 1060 (VRAM 3GB) or AMD Radeon™ RX 570 (VRAM 4GB)DirectX: Version 12Network: Broadband Internet connectionStorage: 36 GB available spaceAdditional Notes: 1080p/30fps when graphics settings are set to &quot;Average&quot;.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:14
+Source: Fetched from Steam Web API

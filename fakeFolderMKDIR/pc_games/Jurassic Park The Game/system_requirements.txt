@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Jurassic Park The Game
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7 +Processor: 2.5GHz dual core i5 or higherMemory: 6 GB RAMGraphics: GeForce GTX 950 or higherDirectX: Version 11Storage: 2 GB available spaceAdditional Notes: Make sure your graphic drivers are up to date and to experiment with the graphics settings to optimize your performance and get the best experience! RNA plays best at high FPS! If using a controller, make sure it's connected before launching the game. If you get any controller issues, especially with dualshock or non xbox controllers - checking out your Steam input settings can help resolve issues!
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:12
+Source: Fetched from Steam Web API

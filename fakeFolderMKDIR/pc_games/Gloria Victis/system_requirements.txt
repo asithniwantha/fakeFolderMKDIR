@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Gloria Victis
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7 Sp. 64-bitProcessor: Intel Core i3 or AMD Athlon II X4 with at least 2,7 GHzMemory: 8 GB RAMGraphics: GeForce GT 740, Radeon HD 7750 - at least 2GB GPU memoryDirectX: Version 11Network: Broadband Internet connectionStorage: 15 GB available spaceAdditional Notes: Game requirements may change in time (optimization).
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS *: Windows 7 64-bitProcessor: Intel Core i5 or AMD Phenom II X4 with at least 3.2 GHzMemory: 12 GB RAMGraphics: GeForce GTX 960, Radeon HD 7970 - at least 4GB GPU memoryDirectX: Version 11Network: Broadband Internet connectionStorage: 15 GB available spaceAdditional Notes: Game requirements may change in time (optimization). SSD is recommended.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:19:14
+Source: Fetched from Steam Web API

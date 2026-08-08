@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Abzu
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7, 64-bitProcessor: 3.0GHz CPU Dual CoreMemory: 4 GB RAMGraphics: Geforce GTX 750 / Radeon R7 260XDirectX: Version 11Storage: 6 GB available spaceSound Card: DirectX compatible sound card
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 7, 64-bitProcessor: 2.4GHz CPU Quad CoreMemory: 8 GB RAMGraphics: Geforce GTX 780 / Radeon R9 290XDirectX: Version 11Storage: 6 GB available spaceSound Card: DirectX compatible sound card
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:15:23
+Source: Fetched from Steam Web API

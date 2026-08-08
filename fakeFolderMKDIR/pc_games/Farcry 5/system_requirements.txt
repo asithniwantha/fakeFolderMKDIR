@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Farcry 5
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 (64-bit versions only)Processor: Intel Core i5-2400 @ 3.1 GHz or AMD FX-6300 @ 3.5 GHz or equivalentMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 670 or AMD R9 270 (2GB VRAM with Shader Model 5.0 or better)DirectX: Version 9.0cNetwork: Broadband Internet connectionStorage: 40 GB available spaceAdditional Notes: Game contains EasyAntiCheat  anti-cheat technology, and Denuvo  and VMProtect  anti-tamper technology.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 (64-bit versions only)Processor: Intel Core i7-4770 @ 3.4 GHz or AMD Ryzen 5 1600 @ 3.2 GHz or equivalentMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 970 or AMD R9 290X (4GB VRAM with Shader Model 5.0 or better)DirectX: Version 9.0cNetwork: Broadband Internet connectionStorage: 40 GB available spaceAdditional Notes: Game contains EasyAntiCheat  anti-cheat technology, and Denuvo  and VMProtect  anti-tamper technology.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:40
+Source: Fetched from Steam Web API

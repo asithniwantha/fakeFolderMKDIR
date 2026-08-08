@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Life is Strange
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows VistaProcessor: Dual Core 2.0GHz or equivalentMemory: 2 GB RAMGraphics: ATI or NVidia card w/ 512 MB RAM (not recommended for Intel HD Graphics cards)DirectX: Version 9.0Storage: 5 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 7Processor: Dual Core 3.0GHz or equivalentMemory: 2 GB RAMGraphics: ATI or NVidia card w/ 1024 MB RAM (NVIDIA GeForce GTX 260 or ATI HD 4890)DirectX: Version 9.0Storage: 14 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:35
+Source: Fetched from Steam Web API

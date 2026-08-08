@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Tera
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows® 8.1 64bit, Windows® 10 64bitProcessor: Intel® Core™ i5-7400 or equivalentMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX730 or equivalentNetwork: Broadband Internet connectionStorage: 1 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS *: Windows® 8.1 64bit, Windows® 10 64bitProcessor: 8 cores or moreMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX1080 or aboveNetwork: Broadband Internet connectionStorage: 1 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:07
+Source: Fetched from Steam Web API

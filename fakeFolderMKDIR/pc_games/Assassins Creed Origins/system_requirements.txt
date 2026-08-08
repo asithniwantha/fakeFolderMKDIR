@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Assassins Creed Origins
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 (64-bit versions only)Processor: Intel Core i5-2400s @ 2.5 GHz or AMD FX-6350 @ 3.9 GHz or equivalentMemory: 6 GB RAMGraphics: NVIDIA GeForce GTX 660 or AMD R9 270 (2048 MB VRAM with Shader Model 5.0 or better)DirectX: Version 11Storage: 42 GB available spaceAdditional Notes: Video Preset: Lowest (720p). Game contains Denuvo  and VMProtect  anti-piracy technology.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 (64-bit versions only)Processor: Intel Core i7- 3770 @ 3.5 GHz or AMD FX-8350 @ 4.0 GHzMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 760 or AMD R9 280X (3GB VRAM with Shader Model 5.0 or better)Storage: 42 GB available spaceAdditional Notes: Video Preset: High (1080p). Game contains Denuvo  and VMProtect  anti-piracy technology.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:15:53
+Source: Fetched from Steam Web API

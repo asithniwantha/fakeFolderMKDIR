@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Journey
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7 SP1 64-bit and above (64-bit is necessary)Processor:  Intel Core i3, AMD Ryzen 3 or betterMemory: 8 GB RAMGraphics: NVIDIA GeForce GT730, AMD Radeon R7 or betterDirectX: Version 11Storage: 8 GB available spaceSound Card: /VR Support: /Additional Notes: /
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-bit and above (64-bit is necessary)Processor: Intel Core i5, AMD Ryzen 5 or betterMemory: 16 GB RAMGraphics: NVIDIA GeForce GTX970, AMD Radeon R9 or betterDirectX: Version 11Storage: 8 GB available spaceSound Card: /VR Support: /Additional Notes: /
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:20:09
+Source: Fetched from Steam Web API

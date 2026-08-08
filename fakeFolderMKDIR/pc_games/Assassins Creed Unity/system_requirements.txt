@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Assassins Creed Unity
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows 10 (64-bit versions only)Processor: Intel Core i5-2500K @ 3.3 GHz or AMD FX-8350 @ 4.0 GHzMemory: 6 GB RAMGraphics: NVIDIA GeForce GTX 680 or AMD Radeon HD 7970 (2 GB VRAM)Storage: 50 GB available spaceSound Card: DirectX 9.0c compatible sound card with latest driversAdditional Notes: Windows-compatible keyboard and mouse required, optional controller
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 10 (64-bit versions only)Processor: Intel Core i7-3770 @ 3.4 GHz or AMD FX-8350 @ 4.0 GHz or betterMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 780 or AMD Radeon R9 290X (3 GB VRAM)Storage: 50 GB available spaceSound Card: DirectX 9.0c compatible sound card with latest driversAdditional Notes: Supported video cards at the time of release: NVIDIA GeForce GTX 680 or better, GeForce GTX 700 series; AMD Radeon HD7970 or better, Radeon R9 200 series Note: Laptop versions of these cards may work but are NOT officially supported.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:15:58
+Source: Fetched from Steam Web API

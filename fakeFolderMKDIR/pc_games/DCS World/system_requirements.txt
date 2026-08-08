@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: DCS World
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows 10, 11Processor: Intel or AMD 3.0Ghz+ with 4+ coresMemory: 16 GB RAMGraphics: Discrete AMD or NVIDIA 8GB+DirectX: Version 11Storage: 200 GB available spaceVR Support: SteamVR, Oculus VRAdditional Notes: Input: Keyboard / Mouse / Joystick
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows 10, 11Processor: Intel or AMD 4.5Ghz+ with 8+ coresMemory: 32 GB RAMGraphics: Discrete AMD or NVIDIA 8GB+DirectX: Version 11Storage: 500 GB available spaceVR Support: SteamVR, Oculus VR, OpenXRAdditional Notes: Input: Joystick / Pedals / VR / Track IR / Haptic Gloves
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:17:19
+Source: Fetched from Steam Web API

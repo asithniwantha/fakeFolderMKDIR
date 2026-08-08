@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Subnautica Below Zero
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS *: Windows 7 64-bitProcessor: Intel Core i3 4XXX series / AMD Ryzen 3 2.6ghz+Memory: 8 GB RAMGraphics: Intel HD 530 or betterDirectX: Version 11Storage: 15 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: Intel Core i5 4XXX series/ AMD Ryzen 5 @ 3Ghz +Memory: 8 GB RAMGraphics: Nvidia 1050 Ti / AMD Radeon 570, 4GB VRAMDirectX: Version 11Storage: 15 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:23:47
+Source: Fetched from Steam Web API

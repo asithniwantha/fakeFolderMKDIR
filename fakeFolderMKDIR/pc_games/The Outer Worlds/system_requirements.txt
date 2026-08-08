@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: The Outer Worlds
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10/11 with updatesProcessor: AMD Ryzen 5 2600 / Intel i5-8400Memory: 16 GB RAMGraphics: AMD RX 5700 / Nvidia GTX 1070 / Intel Arc A580DirectX: Version 12Storage: 110 GB available spaceAdditional Notes: SSD required. Performance scales with higher-end systems.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10/11 with updatesProcessor: AMD Ryzen 5 5600X / Intel Core i7-10700KMemory: 16 GB RAMGraphics: AMD Radeon RX 6800 XT / Nvidia RTX 3080DirectX: Version 12Storage: 110 GB available spaceAdditional Notes: SSD required. Performance scales with higher-end systems.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:23
+Source: Fetched from Steam Web API

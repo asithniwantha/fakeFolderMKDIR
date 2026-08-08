@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Tekken 8
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 64-BitProcessor: Intel Core i5-6600K/AMD Ryzen 5 1600Memory: 8 GB RAMGraphics: Nvidia GeForce GTX 1050Ti/AMD Radeon R9 380XDirectX: Version 12Network: Broadband Internet connectionStorage: 100 GB available spaceSound Card: DirectX compatible soundcard/Onboard chipsetAdditional Notes: *&quot;FPS (frame rate/second): Stable over 60&quot; is guaranteed and selected under the graphic settings by default when the game is launched for the first time.*Frame rate may drop when other applications are running in the background.*Please note that minimum and recommended specifications are subjected to changes without notice.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows 10 64-BitProcessor: Intel Core i7-7700K/AMD Ryzen 5 2600Memory: 16 GB RAMGraphics: Nvidia GeForce RTX 2070/AMD Radeon RX 5700 XTDirectX: Version 12Network: Broadband Internet connectionStorage: 100 GB available spaceSound Card: DirectX compatible soundcard/Onboard chipsetAdditional Notes: *&quot;FPS (frame rate/second): Stable over 60&quot; is guaranteed and selected under the graphic settings by default when the game is launched for the first time.*Frame rate may drop when other applications are running in the background.*Please note that minimum and recommended specifications are subjected to changes without notice.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:04
+Source: Fetched from Steam Web API

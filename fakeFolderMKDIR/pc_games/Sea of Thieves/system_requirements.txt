@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Sea of Thieves
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:Requires a 64-bit processor and operating systemOS: Windows 10 version 18362.0 or higherProcessor: Intel i3 4170 @ 3.7 GHz or AMD FX-6300 @ 3.5 GHzMemory: 8 GB RAMGraphics: Nvidia GeForce GTX 660 or AMD Radeon R9 270DirectX: Version 11Network: Broadband Internet connectionStorage: 100 GB available space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:Requires a 64-bit processor and operating systemOS: Windows® 10 64-bitProcessor: Intel i7 4790 @4Ghz - AMD Ryzen 5 1600 @3.6GhzMemory: 16 GB RAMGraphics: Nvidia Geforce GTX 1080ti - AMD Radeon Rx Vega 64 - Intel A750DirectX: Version 12Network: Broadband Internet connectionStorage: 100 GB available space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:22:57
+Source: Fetched from Steam Web API

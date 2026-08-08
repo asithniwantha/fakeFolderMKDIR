@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Tree of Savior
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7 (64-bit)Processor: Intel i3Memory: 8 GB RAMGraphics: NVIDIA GeForce 200 Series or laterDirectX: Version 9.0cNetwork: Broadband Internet connectionStorage: 32 GB available spaceAdditional Notes: Keyboard, Mouse
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 7 (64-bit) or laterProcessor: Intel i5 or laterMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 860 or laterDirectX: Version 9.0cNetwork: Broadband Internet connectionStorage: 32 GB available spaceAdditional Notes: Joypad available
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:42
+Source: Fetched from Steam Web API

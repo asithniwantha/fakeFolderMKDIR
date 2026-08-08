@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Alien Isolation
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: Windows 7 (32bit)Processor: 3.16Ghz Intel Core 2 Duo E8500Memory: 4 GB RAMGraphics: 1GB (AMD Radeon HD 5550 or Nvidia GeForce GT 430)DirectX: Version 11Network: Broadband Internet connectionStorage: 35 GB available spaceAdditional Notes: Microsoft no longer supports Windows 10 or older versions
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: Windows 7 (64bit)Processor: AMD: Phenom II X4 955 - 4 Core, 3.2 GHz or Intel: Core 2 Quad Q9650 - 4 Core, 3.0 GHzMemory: 8 GB RAMGraphics: 2GB (AMD GPU: AMD Radeon R9 200 Series or Nvidia GPU: Nvidia GeForce GTX660)DirectX: Version 11Network: Broadband Internet connectionStorage: 35 GB available spaceAdditional Notes: Microsoft no longer supports Windows 10 or older versions
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:15:27
+Source: Fetched from Steam Web API

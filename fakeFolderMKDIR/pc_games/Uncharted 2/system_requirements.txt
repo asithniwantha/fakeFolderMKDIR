@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Uncharted 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS: Windows® 10 (*Japanese Ver. only)Processor: 1GHz overMemory: 2 GB RAMGraphics: 800x600 pixel overDirectX: Version 9.0Storage: 100 MB available spaceSound Card: 16 bit stereo, 22KHz WAVE file can be played
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS: Windows® 10 (*Japanese Ver. only)Processor: 1GHz overMemory: 2 GB RAMGraphics: 800x600 pixel overDirectX: Version 9.0Storage: 100 MB available spaceSound Card: 16 bit stereo, 22KHz WAVE file can be played
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:52
+Source: Fetched from Steam Web API

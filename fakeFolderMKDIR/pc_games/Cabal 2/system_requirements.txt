@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Cabal 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:16:39
+Source: Fetched from Steam Web API

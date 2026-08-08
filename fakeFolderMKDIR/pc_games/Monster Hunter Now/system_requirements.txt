@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: Monster Hunter Now
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+System requirements not available.
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:21:12
+Source: Fetched from Steam Web API

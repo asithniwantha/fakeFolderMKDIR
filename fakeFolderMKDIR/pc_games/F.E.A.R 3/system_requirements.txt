@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: F.E.A.R 3
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:						OS *: Windows XP						Processor: Intel Core 2 Duo 2.4Ghz, AMD Athlon X2 4800+						Drive Space: 4.4GB												RAM: 2GB						Video Card: NVIDIA 8800 GT 512MB RAM, ATI 3850HD 512Mb RAM or better						DirectX®: 9.0c
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:						OS *: Windows 7						Processor: Intel Core 2 Duo 2.93Ghz+, Intel quad core 2.66Ghz+, AMD Phenom II X2 550, 3.1Ghz+						Drive Space: 10.0GB							RAM: 4GB						Video Card: NVIDIA 9800 GTX+ 512MB RAM, ATI 5750HD 512Mb RAM or better						DirectX®: 11
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:18:26
+Source: Fetched from Steam Web API

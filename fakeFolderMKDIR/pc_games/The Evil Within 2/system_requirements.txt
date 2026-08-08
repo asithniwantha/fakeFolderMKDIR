@@ -1,0 +1,14 @@
+SYSTEM REQUIREMENTS FOR: The Evil Within 2
+======================================================================
+
+MINIMUM REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Minimum:OS *: 64-bit Windows 7 SP1/Windows 8.1Processor: i7 or an equivalent with four plus core processorMemory: 4 GB RAMGraphics: GTX 460 or equivalent 1 GB VRAM cardDirectX: Version 11Storage: 50 GB available spaceAdditional Notes: It’s worth noting that the 50 GB of space required is for the PC install. When the installation is complete, the game will take up ~41 GB of HDD space
+
+RECOMMENDED REQUIREMENTS:
+----------------------------------------------------------------------
+CPU: Recommended:OS *: 64-bit Windows 7 SP1/Windows 8.1Processor: i7 with four plus coresMemory: 4 GB RAMGraphics: GeForce GTX 670 or equivalent with 4GBs of VRAMDirectX: Version 11Storage: 50 GB available spaceAdditional Notes: It’s worth noting that the 50 GB of space required is for the PC install. When the installation is complete, the game will take up ~41 GB of HDD space
+
+----------------------------------------------------------------------
+Created on: 2026-08-03 20:24:11
+Source: Fetched from Steam Web API
